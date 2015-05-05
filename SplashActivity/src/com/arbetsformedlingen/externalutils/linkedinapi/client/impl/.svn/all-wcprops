@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/impl
+END
+BaseLinkedInApiClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/impl/BaseLinkedInApiClient.java
+END
+AsyncLinkedInApiClientAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/impl/AsyncLinkedInApiClientAdapter.java
+END
+LinkedInApiDomClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/impl/LinkedInApiDomClient.java
+END
+LinkedInApiJaxbClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/impl/LinkedInApiJaxbClient.java
+END

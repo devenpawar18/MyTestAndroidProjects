@@ -1,0 +1,127 @@
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<style type="text/css">
+			h1, h2, p { padding:0px; margin:0px; }
+            
+			html { font-family:Helvetica; padding:0px; }
+			h1 {
+	font-size:22px;
+	margin-top: 6px;
+	margin-right: 0px;
+	margin-bottom: 12px;
+	margin-left: 0px;
+}
+			h2 { font-size:17px; margin:12px 0px 0px 0px; }
+            
+			img { max-width:100%; height:auto; margin-bottom:4px; margin-left:4px }
+            embed, object { width:100%; }
+            a { color:#E2581C; text-decoration:none; font-weight:bold; }
+			
+			.pubDate { font-size:13px; color:#666666; }
+			.info { font-size:13px; font-weight:normal; border-top:1px dotted black; padding:5px 0px 5px 0px; }
+			.intro {
+	font-size:16px;
+	font-weight:bold;
+	overflow:hidden;
+	margin-top: 14px;
+	margin-right: 0px;
+	margin-bottom: 14px;
+	margin-left: 0px;
+	padding-right: 6px;
+	padding-left: 6px;
+}
+			.imageContainer { font-size:13px; font-style:italic; margin-top: 4px; margin-right: 10px; float: left; }
+			.body {
+    word-wrap: break-word;
+	font-size:15px;
+	font-weight:normal;
+	border-top-width: 1px;
+	border-top-style: none;
+	border-top-color: #CCC;
+	background-image: url(WebTemplateBackground.png);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	padding-top: 10px;
+	padding-right: 6px;
+	padding-bottom: 15px;
+	padding-left: 6px;
+}
+			.body1 {
+    word-wrap: break-word;
+	font-size:15px;
+	font-weight:normal;
+	background-image: url(grad.png);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	padding-top: 0px;
+	padding-right: 6px;
+	padding-bottom: 15px;
+	padding-left: 6px;
+}
+			
+			.info span { white-space:nowrap; }
+			
+            body {
+    word-wrap: break-word;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+        .publicerad {
+	font-size: 13px;
+	font-weight: bold;
+}
+        .label {
+	font-size: 13px;
+}
+           
+        </style>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	</head>
+<body>
+
+        <div class="intro">
+          <h1>$title$</h1>
+            $employer$
+        </div>
+        
+        
+        
+        <div class="body1">                
+            $logo$
+            $publicationDate$
+            $jobName$
+            $spots$
+            $workLocation$                        
+            $jobText$    
+            $drivingLicense$
+            $car$
+            $workDuration$             
+            $access$
+            $payroll$                                            
+            $applicationTitle$
+            $deadlineDate$
+            $reference$
+            $applicationEmail$
+            $misc$
+            $postAdressTitle$                
+            $employer$
+            $postAddress$
+            $postCode$ $postDistrict$
+            $postCountry$
+            $visitorAdressTitle$
+            $visitorAddress$
+            $visitorTown$
+            $empPhone$            
+            $empWebSite$
+            $empEmail$
+            $orgNumber$
+            $jobId$
+            $contactPersons$            
+        </div>
+    </body>
+</html>
+

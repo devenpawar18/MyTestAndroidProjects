@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Platsbanken</string>
+	<string name="search">Buscar</string>
+	<string name="favorites">Favoritos</string>
+	<string name="ads">Anuncios</string>
+	<string name="Searches">Búsquedas</string>
+	<string name="recent">Últimas</string>
+	<string name="go">GO</string>
+	<string name="text_Search">Buscar por palabras</string>
+	<string name="search_By_Job_Location">Buscar por localidad de trabajo</string>
+	<string name="search_By_Occupation">Buscar por oficio o profesión</string>
+	<string name="text_Search_Label">Búsqueda de palabras</string>
+	<string name="occupation">Oficio o profesión</string>
+	<string name="search_Occupation">Oficio o profesión</string>
+	<string name="occupations">ocupaciones</string>
+
+	<string name="job_Location">Localidad de trabajo</string>
+	<string name="technical_Support">Asistencia técnica</string>
+	<string name="employment">Empleo</string>
+	<string name="customer_Service">Servicio de atención al cliente</string>
+	<string name="share">Compartir</string>
+	<string name="twitter">Twitter</string>
+	<string name="facebook">Facebook</string>
+	<string name="linkedIn">LinkedIn</string>
+	<string name="email">Correo electrónico:</string>
+	<string name="open_In_Browser">Abierta en el navegador</string>
+	<string name="cancel">Cancelar</string>
+
+	<string name="mail">Correo</string>
+	<string name="call">Llamar</string>
+	<string name="delete">Eliminar</string>
+	<string name="map">Mapa</string>
+	<string name="translate">Traducir</string>
+
+	<string name="contact">Contacto</string>
+
+	<string name="click_Here_To_Filter">Haga clic aquí para filtrar</string>
+	<string name="loading">Buscando más...</string>
+
+	<string name="sign_In">Iniciar sesión en</string>
+	<string name="municipality">Municipio</string>
+	<string name="municipalities">municipios</string>
+	<string name="filter">Filtrar</string>
+	<string name="sign_Out_Of">Finalizar sesión en</string>
+	<string name="no_Ads_Found">No anuncios encontrados</string>
+	<string name="login_Is_Not_Successful">Inicio de sesión no tiene éxito</string>
+	<string name="occupational_Field">Ámbito profesional</string>
+	<string name="occupational_Fields">campos de trabajo</string>
+	<string name="add_Filter_Favorite">Añadir el filtro favoritos</string>
+	<string name="job_Ads">Anuncios de plazas vacantes</string>
+	<string name="ad">anuncio</string>
+	<string name="occupational_Group">Grupo ocupacional</string>
+	<string name="occupational_Groups">grupos profesionales</string>
+	<string name="County">Provincia</string>
+	<string name="counties">condados</string>
+	<string name="ads_In"> anuncios en</string>
+	<string name="ads_For">anuncios buscando</string>
+	<string name="platsbanken">Platsbanken</string>
+	<string name="ads_Found"> anuncios encontrados</string>
+
+	<string name="techsupportNumberText">0771-622 000</string>
+	<string name="cxSupportNumberText">0771-416 416</string>
+	<string name="visit_Us">Visítanos</string>
+	<string name="follow_Us_On">Síguenos en</string>
+	<string name="send_Email">Enviar correo electrónico</string>
+
+	<string name="englishLanguage">Engelska/English#en</string>
+	<string name="swedishLanguage">Svenska#sv</string>
+	<string name="arabicLanguage">Arabiska/اللغة العربية#ar</string>
+	<string name="frenchLanguage">Franska/français#fr</string>
+	<string name="russianLanguage">Ryska/Русский#ru</string>
+	<string name="spanishLanguage">Spanska/español#es</string>
+
+	<string name="send">Enviar</string>
+	<string name="currently_s_Ads">Hay actualmente %s plazas vacantes</string>
+	<string name="all_Of">Todos los </string>
+	<string name="all">Todos</string>
+	<string name="filter_Already_Favroite">Filtro ya favoritos</string>
+	<string name="message_Successfully_Posted">Mensaje publicado con éxito</string>
+	<string name="message_Not_Posted">No se puede enviar</string>
+	<string name="enter_Your_Search_Terms">Introducir la palabra clave de búsqueda...</string>
+	<string name="loading_Jobs">Buscando más anuncios</string>
+	<string name="employment_Office">Oficina de provisión de empleo </string>
+	<string name="employment_Offices">oficinas de empleo</string>
+	<string name="employment_office">Oficina de provisión de empleo</string>
+	
+	
+	<string name="visiting_Address">Dirección para visitas</string>
+	<string name="postal_Address">Dirección postal</string>
+	<string name="phone_Hours">Horarios de atención telefónica</string>
+	<string name="head_Of_Employment_Office">Jefe de la Oficina de provisión de empleo</string>
+	<string name="self_Service">Autoservicio</string>
+	<string name="personal_Service">Servicio personalizado</string>
+	
+	<string name="published">Publicado:</string>
+	<string name="vacancies"> plazas vacantes</string>
+	<string name="vacancy"> plaza vacante</string>
+	<string name="work_Location">Localidad de trabajo:</string>
+	<string name="driving_License">Carné de conducir:</string>
+	<string name="duration_Or_WorkingHours">Duración/Horario laboral</string>
+	<string name="starting_Date">Entrada al trabajo:</string>
+	<string name="salary_Or_Wages">Salario</string>
+	<string name="application">Solicitud</string>
+	<string name="application_Deadline">Último plazo de presentación:</string>
+	<string name="indicate_Reference">Indicar referencia:</string>
+	<string name="we_Welcome_Application_Via_Email">Aceptamos solicitudes a través de correo electrónico:</string>
+	<string name="phone">Tel:</string>
+	<string name="web">Sitio Web:</string>
+	<string name="corporate_Registration_Number">No. de registro de la empresa:</string>
+	<string name="ad_Id">No. ID de anuncio:</string>
+	<string name="contact_Persons">Persona de contacto</string>
+	<string name="access_To_Own_Car">Disponibilidad de coche propio</string>
+	<string name="no_Access_To_Own_Car">No hay acceso a la propiedad del coche</string>
+	
+	
+	<string name="could_Not_Shorten_URL">No se puede acortar el enlace al trabajo</string>
+	
+	<string name="load_More">Cargue más ...</string>
+	
+	
+	<string name="deleteall">Eliminar todos los</string>
+	
+	<string name="name">Nombre:</string>
+	<string name="title">Título:</string>
+	<string name="phone_Number">Número de teléfono:</string>
+	<string name="mobile_Number">Número de teléfono móvil:</string>
+	<string name="related_matches">Närliggande träffar</string>
+	<string name="job_Info">anuncios</string>
+	<string name="account">Cuenta</string>
+	<string name="message">Mensaje</string>
+	<string name="article_Link">Se proporcionará un enlace al\n trabajo al final del mensaje</string>
+	<string name="language">Idioma</string>
+	<string name="we_do_not_accept_application_via_email">No aceptamos solicitudes a través de correo electrónico:</string>
+	
+	<string name="could_not_get_employment_office">No se pudo obtener oficina de provisión de empleos</string>
+	<string name="could_not_get_Employment_offices">No se pudieron obtener oficinas de provisión de empleos</string>
+	<string name="could_not_get_job_info">No se pudo obtener anuncio</string>
+	<string name="could_not_get_Municipalities">No se pudieron obtener municipios</string>
+	<string name="could_not_get_counties">No se pudieron obtener provincias</string>
+	<string name="could_not_get_location">No se pudo obtener la plaza vacante</string>
+	<string name="could_not_get_jobs">No se pudieron obtener anuncios</string>
+	<string name="could_not_get_total_number_of_jobs">No se pudo obtener el total de número de trabajos</string>
+	<string name="could_not_get_occupations">No se pudieron obtener oficios o profesiones</string>
+	<string name="could_not_get_occupational_groups_groups">No se pudieron obtener grupos ocupacionales</string>
+	<string name="could_not_get_occupational_fields">No se pudieron obtener ámbitos profesionales</string>
+	<string name="could_not_translate">No se pudo traducir</string>
+	<string name="enable_location_service">¿Quiere habilitar el servicio de ubicación?</string>
+</resources>

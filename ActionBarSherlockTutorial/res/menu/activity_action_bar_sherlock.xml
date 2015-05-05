@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Theme.Sherlock" >
+
+    <item
+        android:id="@+id/phone"
+        style="@style/Theme.Sherlock"
+        android:icon="@drawable/ic_action_search"
+        android:showAsAction="always"
+        android:title="@string/phone"/>
+    <item
+        android:id="@+id/computer"
+        style="@style/Theme.Sherlock"
+        android:icon="@drawable/ic_action_search"
+        android:showAsAction="always"
+        android:title="@string/computer"/>
+    <item
+        android:id="@+id/gamepad"
+        style="@style/Theme.Sherlock"
+        android:icon="@drawable/ic_action_search"
+        android:showAsAction="always"
+        android:title="@string/gamepad"/>
+    <!-- <item -->
+    <!-- android:id="@+id/camera" -->
+    <!-- android:icon="@drawable/ic_action_search" -->
+    <!-- android:showAsAction="ifRoom|withText" -->
+    <!-- android:title="@string/camera"/> -->
+    <!-- <item -->
+    <!-- android:id="@+id/video" -->
+    <!-- android:icon="@drawable/ic_action_search" -->
+    <!-- android:showAsAction="ifRoom|withText" -->
+    <!-- android:title="@string/video"/> -->
+    <!-- <item -->
+    <!-- android:id="@+id/email" -->
+    <!-- android:icon="@drawable/ic_action_search" -->
+    <!-- android:showAsAction="ifRoom|withText" -->
+    <!-- android:title="@string/email"/> -->
+
+</menu>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<drawable name="white">#FFFFFF</drawable>
+	<drawable name="black">#000000</drawable>
+	<drawable name="titleBG">#016483</drawable>
+	<drawable name="titleTextColor">#009bdc</drawable>
+	<drawable name="docSearchColor">#aaaaaa</drawable>
+	<drawable name="findDoctorBG">#6099ad</drawable>
+	<drawable name="dividerGrey">#cdcfce</drawable>
+	<drawable name="brown1">#e5e0da</drawable>
+	<drawable name="brown2">#cdc6bc</drawable>
+	<drawable name="docDetailsBG">#e1ded5</drawable>
+	<drawable name="docDetails">#81a4b3</drawable>
+	<drawable name="textColor">#3584ab</drawable>
+	<drawable name="green">#718216</drawable>
+	<drawable name="selected">#b1b4c0</drawable>
+	<drawable name="skyBlue">#6099ac</drawable>
+	<drawable name="resultsBar">#85aab9</drawable>
+	<drawable name="notSelected">#828994</drawable>
+	<drawable name="textBG">#006482</drawable>
+	<drawable name="background">#e2ddd5</drawable>
+	<drawable name="red">#dc143c</drawable>
+	<drawable name="docSearchResultsBG">#9fb8bf</drawable>
+</resources>

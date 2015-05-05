@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/android/!svn/ver/1689/Platsbanken/src/com/arbetsformedlingen/network
+END
+HTTPConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/android/!svn/ver/1689/Platsbanken/src/com/arbetsformedlingen/network/HTTPConnection.java
+END
+HttpConnectionCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/android/!svn/ver/1372/Platsbanken/src/com/arbetsformedlingen/network/HttpConnectionCallback.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/android/!svn/ver/1671/Platsbanken/src/com/arbetsformedlingen/network/Parser.java
+END

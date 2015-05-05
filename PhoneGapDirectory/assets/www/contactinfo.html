@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>New Claim</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+	href="http://code.jquery.com/mobile/1.0a2/jquery.mobile-1.0a2.min.css" />
+<link rel="stylesheet" href="css/colors.css">
+<script src="http://code.jquery.com/jquery-1.4.4.min.js"></script>
+<script
+	src="http://code.jquery.com/mobile/1.0a2/jquery.mobile-1.0a2.min.js"></script>
+
+<script>
+	// Global declarations - assignments made in $(document).ready() below
+	var stateVar = null;
+	var whatVar = null;
+	var mobile = null;
+	var fname = null;
+	var lname = null;
+	var email = null;
+	var form1var = null;
+	var inputMapVar = null;
+</script>
+
+</head>
+<body>
+
+	<!-- Page starts here -->
+	<div data-role="page" data-theme="b" id="page3">
+
+		<div data-role="header" id="hdrMain" name="hdrMain"
+			data-nobackbtn="true">
+			<h1>New Contact</h1>
+		</div>
+
+		<div data-role="content" id="contentMain" name="contentMain">
+
+			<form id="form1" method="get">
+
+				<div id="fnameDiv" data-role="fieldcontain">
+					<label for="fname" id="fnameLabel" name="fnameLabel">First
+						name*</label> <input id="fname" name="fname_r" type="text" />
+				</div>
+
+				<div id="lnameDiv" data-role="fieldcontain">
+					<label for="lname">Last name*</label> <input id="lname"
+						name="lname_r" type="text" />
+				</div>
+
+				<div id="shipDiv" data-role="fieldcontain">
+					<label for="mobNo">Mobile number*</label> <input id="mobNo"
+						name="mobNo_r" type="text" />
+				</div>
+
+				<div id="emailDiv" data-role="fieldcontain">
+					<label for="email">Email Id*</label> <input id="email"
+						name="email_r" type="text" />
+				</div>
+
+
+				<div id="submitDiv" data-role="fieldcontain">
+					<input type="submit" value="Add To Contacts" data-inline="true" />
+				</div>
+			</form>
+		</div>
+		<!-- contentMain -->
+
+
+		<!-- 		<div data-role="footer" id="ftrConfirmation" name="ftrConfirmation"></div> -->
+
+
+		<script>
+			$(document).ready(function() {
+				// Assign global variables
+
+				mobile = $('#mobNo');
+				fname = $('#fname');
+				lname = $('#lname');
+				email = $('#email');
+				stateVar = $('#state');
+				whatVar = $('#what');
+				form1Var = $('#form1');
+				inputMapVar = $('input[name*="_r"]');
+
+			});
+
+			$('#form1')
+					.submit(
+							function() {
+
+								// 				inputMapVar.each(function(index) {
+								// 					alert($(this).val());
+								// 				});
+
+								// 				alert(shipping.val());
+								// 				alert(fname.val());
+								// 				alert(lname.val());
+
+								if (mobile.val() == '' || fname.val() == ''
+										|| lname.val() == ''
+										|| email.val() == '') {
+									alert("Please Enter Details");
+									// 									$("#fname").val("");
+									// 									$("#lname").val("");
+									// 									$("#mobNo").val("");
+									// 									$("#email").val("");
+
+								} else {
+
+									window.sessionStorage.setItem('mobile',
+											mobile.val());
+									window.sessionStorage.setItem('fname',
+											fname.val());
+									window.sessionStorage.setItem('lname',
+											lname.val());
+									window.sessionStorage.setItem('email',
+											email.val());
+									window.location = 'writefile.html';
+								}
+
+							});
+		</script>
+	</div>
+	<!-- page1 -->
+
+
+	<!-- Page ends here -->
+</body>
+</html>

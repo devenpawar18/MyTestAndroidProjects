@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/externalutils/facebook/android
+END
+BaseDialogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/facebook/android/BaseDialogListener.java
+END
+SessionStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/facebook/android/SessionStore.java
+END
+AsyncFacebookRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/externalutils/facebook/android/AsyncFacebookRunner.java
+END
+FacebookError.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/facebook/android/FacebookError.java
+END
+FbDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/android/!svn/ver/1425/Platsbanken/src/com/arbetsformedlingen/externalutils/facebook/android/FbDialog.java
+END
+SessionEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/facebook/android/SessionEvents.java
+END
+BaseRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/facebook/android/BaseRequestListener.java
+END
+DialogError.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/facebook/android/DialogError.java
+END
+Facebook.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/facebook/android/Facebook.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/facebook/android/Util.java
+END

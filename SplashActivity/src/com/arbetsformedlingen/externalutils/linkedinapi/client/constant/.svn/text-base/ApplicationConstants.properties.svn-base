@@ -1,0 +1,10 @@
+com.arbetsformedlingen.externalutils.linkedinapi.client.validateXml=false
+com.arbetsformedlingen.externalutils.linkedinapi.client.oauthVersion=1.0a
+com.arbetsformedlingen.externalutils.linkedinapi.client.encoding=UTF-8
+com.arbetsformedlingen.externalutils.linkedinapi.client.contentTypeXml=application/xml
+com.arbetsformedlingen.externalutils.linkedinapi.client.defaultImpl=com.arbetsformedlingen.externalutils.linkedinapi.client.impl.LinkedInApiJaxbClient
+com.arbetsformedlingen.externalutils.linkedinapi.client.defaultResultSize=100
+com.arbetsformedlingen.externalutils.linkedinapi.client.compressContent=true
+com.arbetsformedlingen.externalutils.linkedinapi.client.connectTimeout=-1
+com.arbetsformedlingen.externalutils.linkedinapi.client.readTimeout=-1
+com.arbetsformedlingen.externalutils.linkedinapi.client.authHeaderName=x-li-auth-token

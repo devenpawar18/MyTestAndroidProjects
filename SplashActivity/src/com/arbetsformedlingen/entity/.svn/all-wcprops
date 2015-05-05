@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/android/!svn/ver/1689/Platsbanken/src/com/arbetsformedlingen/entity
+END
+ContactPersonEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/entity/ContactPersonEntity.java
+END
+SearchResultEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/entity/SearchResultEntity.java
+END
+FilterEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/android/!svn/ver/1386/Platsbanken/src/com/arbetsformedlingen/entity/FilterEntity.java
+END
+JobEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/android/!svn/ver/1123/Platsbanken/src/com/arbetsformedlingen/entity/JobEntity.java
+END
+JobDetailEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/android/!svn/ver/1643/Platsbanken/src/com/arbetsformedlingen/entity/JobDetailEntity.java
+END
+ContactDetailEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/android/!svn/ver/1689/Platsbanken/src/com/arbetsformedlingen/entity/ContactDetailEntity.java
+END

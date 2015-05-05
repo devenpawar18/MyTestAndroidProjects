@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:title="@string/search" android:icon="@drawable/search_menu"
+		android:id="@+id/search" />
+	<item android:title="@string/favorites" android:icon="@drawable/favorites_menu"
+		android:id="@+id/favorite" />
+	<item android:title="@string/contact" android:icon="@drawable/contact_menu"
+		android:id="@+id/contact" />
+</menu>
+

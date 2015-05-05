@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/adapter
+END
+FavroiteAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/adapter/FavroiteAdapter.java
+END
+ResultListSectionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/adapter/ResultListSectionAdapter.java
+END
+SingleItemAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/adapter/SingleItemAdapter.java
+END
+SearchResultAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/adapter/SearchResultAdapter.java
+END
+ResultListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/adapter/ResultListAdapter.java
+END
+ContactScreenAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/adapter/ContactScreenAdapter.java
+END

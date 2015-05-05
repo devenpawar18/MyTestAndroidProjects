@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SearchFromSpinnerActivity!</string>
+    <string name="app_name">SearchFromSpinner</string>
+    <string name="country_prompt">Select Country</string>
+
+    <string-array name="country_array">
+        <item>All</item>
+        <item>India</item>
+        <item>Austrailia</item>
+        <item>New Zealand</item>
+        <item>Japan</item>
+        <item>England</item>
+        <item>USA</item>
+        <item>France</item>
+    </string-array>
+
+</resources>

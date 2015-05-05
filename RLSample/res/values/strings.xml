@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RLSample!</string>
+    <string name="app_name">RLSample</string>
+    <string name="empty_history">Click the scan button to start.</string>
+<string name="code_types">Barcode Types</string>
+</resources>

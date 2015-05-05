@@ -1,0 +1,9 @@
+<resources>
+
+    <string-array name="image_selection_option">
+        <item>@string/take_picture</item>
+        <item>@string/browse_library</item>
+        <item>@string/browse_samples</item>
+    </string-array>
+
+</resources>

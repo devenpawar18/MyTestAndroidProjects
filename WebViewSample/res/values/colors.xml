@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<drawable name="white">#FFFFFF</drawable>
+	<drawable name="black">#242424</drawable>
+	<drawable name="grey">#6f8089</drawable>
+	<drawable name="dividerGrey">#cdcfce</drawable>
+	<!--	<drawable name="headerGrey">#acb5bc</drawable>-->
+
+	<drawable name="title_grey">#4C566C</drawable>
+	<drawable name="blue">#8c99B1</drawable>
+	<drawable name="brown">#CD5C5C</drawable>
+	<drawable name="light_blue">#e8f1f4</drawable>
+	<drawable name="headerGrey">#adb6bd</drawable>
+	<drawable name="catalogGrey">#e4e4e6</drawable>
+	<drawable name="textGrey">#858585</drawable>
+	<drawable name="titleGrey">#646d75</drawable>
+	<drawable name="bgGrey">#b4bdc3</drawable>
+	<drawable name="red">#f71818</drawable>
+	<drawable name="buttonbackground">#758187</drawable>
+	<drawable name="title_line_color">#5A1B0F</drawable>
+	<drawable name="highlightitembgcolor">#4C87C1</drawable>
+	<drawable name="highlightitembgcolor1">#FFAE19</drawable>
+	<drawable name="highlightitemfgcolor">#000000</drawable>
+	<drawable name="itembgcolor">#FFFFFF</drawable>
+</resources>

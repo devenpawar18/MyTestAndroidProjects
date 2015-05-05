@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AndroidControlsActivity!</string>
+    <string name="app_name">AndroidControlsAplication</string>
+    <string name="prompt_choose_language">Choose Language</string>
+</resources>

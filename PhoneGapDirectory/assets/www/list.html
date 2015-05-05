@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Page</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+	href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script
+	src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+</head>
+<body style="margin-top: 20px;">
+
+	<div data-role="page" id="page1" style="margin-top: 20px;">
+		<script type="text/javascript">
+			$(document)
+					.ready(
+							function() {
+								//	var url = 'http://91.123.195.170/appitecture/androidmarkettopfreeapps.php';
+								var url = 'http://search.twitter.com/search.json?callback=?&q=aa';
+
+								$
+										.getJSON(
+												url,
+												function(json) {
+
+													$
+															.each(
+																	json.results,
+																	function(i,
+																			app) {
+																		$(
+																				"#plist")
+																				.append(
+																						'<li><a style="padding-top:45px;" href="#page2" data-id="idd"><img style="padding-top:30px; padding-left:10px;" src="'+ app.profile_image_url+'" widt="48" height="48" />'
+																								+ app.text
+																								+ '</a></li>');
+																		$(
+																				"#plist")
+																				.listview(
+																						"refresh");
+																	});
+
+												});
+
+								$("li").live("click", function() {
+
+									$("#detail").text($(this).text());
+									//alert($(this).text());
+
+								});
+
+							});
+		</script>
+
+		<ul id="plist" data-role="listview" data-inset="true" data-theme="a"
+			style="margin: 10px; margin-top: 20px;" data-filter="true">
+
+		</ul>
+
+
+	</div>
+
+	<div data-role="page" id="page2">
+
+		<div data-role="header">
+			<h1>Detail Screen</h1>
+		</div>
+		<!-- /header -->
+
+		<div data-role="content">
+			<p id="detail"></p>
+
+		</div>
+		<!-- /content -->
+
+		<div data-role="footer">
+			<h4>Page Footer</h4>
+		</div>
+		<!-- /footer -->
+	</div>
+	<!-- /page -->
+
+
+
+</body>
+</html>

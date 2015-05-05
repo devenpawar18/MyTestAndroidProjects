@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/android/!svn/ver/1672/Platsbanken/src/com/arbetsformedlingen/controller
+END
+AppController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/android/!svn/ver/1672/Platsbanken/src/com/arbetsformedlingen/controller/AppController.java
+END
+FacebookManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/controller/FacebookManager.java
+END
+AppContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/controller/AppContentProvider.java
+END
+LinkedInManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/android/!svn/ver/1503/Platsbanken/src/com/arbetsformedlingen/controller/LinkedInManager.java
+END
+TwitterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/controller/TwitterManager.java
+END

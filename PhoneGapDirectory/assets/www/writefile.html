@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>FileWriter Example</title>
+
+<script type="text/javascript" charset="utf-8" src="cordova-1.7.0rc1.js"></script>
+<script type="text/javascript" charset="utf-8">
+	// Wait for Cordova to load
+	//
+	document.addEventListener("deviceready", onDeviceReady, false);
+
+	// Cordova is ready
+	//
+	function onDeviceReady() {
+		window.requestFileSystem(LocalFileSystem.PERSISTENT, 0, gotFS, fail);
+	}
+
+	function gotFS(fileSystem) {
+		fileSystem.root.getFile("info.txt", {
+			create : true,
+			exclusive : false
+		}, gotFileEntry, fail);
+	}
+
+	function gotFileEntry(fileEntry) {
+		fileEntry.createWriter(gotFileWriter, fail);
+	}
+
+	function gotFileWriter(writer) {
+
+		// 		writer.onwriteend = function(evt) {
+		// 			console.log("contents of file now 'some sample text'");
+		// 			writer.truncate(60);
+		// 			writer.onwriteend = function(evt) {
+		// 				console.log("contents of file now 'some sample'");
+		// 				writer.seek(45);
+		// 				writer.write(" New appended text");
+		// 				writer.onwriteend = function(evt) {
+		// 					alert(evt);
+		// 					console.log("contents of file now 'some different text'");
+		// 				}
+		// 			};
+		// 			writer.write("Edited Text dfsdfsdfsdf");
+		// 		};
+		writer.onwrite = function(evt) {
+			console.log("write success");
+		};
+		writer.seek(writer.length);
+		var mobile = sessionStorage.getItem('mobile');
+		var fname = sessionStorage.getItem('fname');
+		var lname = sessionStorage.getItem('lname');
+		var email = sessionStorage.getItem('email');
+
+		if (mobile != null && fname != null && lname != null && email != null) {
+			fname += '|';
+			lname += '|';
+			mobile += '|';
+			email += '$';
+			writer.write(fname + lname + mobile + email);
+			mobile = null;
+			fname = null;
+			lname = null;
+			email = null;
+		}
+
+	}
+
+	function fail(error) {
+		console.log(error.code);
+	}
+</script>
+</head>
+<body>
+	<div data-role="page" data-theme="b" id="page3">
+		<h1>Contact Added Successfully</h1>
+		<a href="contactlist.html" data-role="button" data-icon="home"
+			style="margin: 15px;" data-iconpos="center" data-mini="true"
+			data-inline="true">Home</a>
+	</div>
+</body>
+</html>

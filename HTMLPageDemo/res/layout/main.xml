@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:background="@drawable/white" android:orientation="vertical">
+	<include layout="@layout/title" android:id="@+id/job_news_titleBar" />
+	<WebView android:id="@+id/contentWebView" android:layout_below="@+id/jobId"
+		android:clipToPadding="false" android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"
+		android:clickable="false"/>
+</LinearLayout>

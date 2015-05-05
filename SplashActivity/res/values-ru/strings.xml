@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Platsbanken</string>
+	<string name="search">Поиск</string>
+	<string name="favorites">Избранное</string>
+	<string name="ads">Объявления</string>
+	<string name="Searches">Запросы</string>
+	<string name="recent">Последние</string>
+	<string name="go">GO</string>
+	<string name="text_Search">Поиск по тексту</string>
+	<string name="search_By_Job_Location">Поиск по месту работы</string>
+	<string name="search_By_Occupation">Поиск по профессии</string>
+	<string name="text_Search_Label">Поиск по тексту</string>
+	<string name="occupation">Профессия</string>
+	<string name="search_Occupation">Профессия</string>
+	<string name="occupations">профессий</string>
+
+	<string name="job_Location">Место нахождения работы:</string>
+	<string name="technical_Support">Техническая поддержка</string>
+	<string name="employment">Занятости</string>
+	<string name="customer_Service">Отдел обслуживания клиентов</string>
+	<string name="share">Доля</string>
+	<string name="twitter">Twitter</string>
+	<string name="facebook">Facebook</string>
+	<string name="linkedIn">LinkedIn</string>
+	<string name="email">Электронная почта:</string>
+	<string name="open_In_Browser">Открыть в браузере</string>
+	<string name="cancel">Отмена</string>
+
+	<string name="mail">Почта</string>
+	<string name="call">Позвонить</string>
+	<string name="delete">Удалить</string>
+	<string name="map">Карта</string>
+	<string name="translate">Перевести</string>
+
+	<string name="contact">Контактная информация</string>
+
+	<string name="click_Here_To_Filter">Нажмите здесь, чтобы фильтр</string>
+	<string name="loading">Загрузка ...</string>
+
+	<string name="sign_In">Войти в</string>
+	<string name="municipality">Муниципалитет</string>
+	<string name="municipalities">муниципалитетов</string>
+	<string name="filter">Фильтровать</string>
+	<string name="sign_Out_Of">Выйти из</string>
+	<string name="no_Ads_Found">Нет объявлений найдены</string>
+	<string name="login_Is_Not_Successful">Логин не удается</string>
+	<string name="occupational_Field">Сфера деятельности</string>
+	<string name="occupational_Fields">профессиональной деятельности</string>
+	<string name="add_Filter_Favorite">Добавить фильтр любимой</string>
+	<string name="job_Ads">Объявления о вакансиях</string>
+	<string name="ad">Объявления о вакансиях</string>
+	<string name="occupational_Group">Специализации</string>
+	<string name="occupational_Groups">профессиональных групп</string>
+	<string name="County">Лен</string>
+	<string name="counties">comtés</string>
+	<string name="ads_In"> объявлений в</string>
+	<string name="ads_For">объявлений по специальности</string>
+	<string name="platsbanken">Platsbanken</string>
+	<string name="ads_Found"> объявлений найдены</string>
+
+	<string name="techsupportNumberText">0771-622 000</string>
+	<string name="cxSupportNumberText">0771-416 416</string>
+	<string name="visit_Us">Посетите нас</string>
+	<string name="follow_Us_On">Следите за нами на</string>
+	<string name="send_Email">Отправить по электронной почте</string>
+
+	<string name="englishLanguage">Engelska/English#en</string>
+	<string name="swedishLanguage">Svenska#sv</string>
+	<string name="arabicLanguage">Arabiska/اللغة العربية#ar</string>
+	<string name="frenchLanguage">Franska/français#fr</string>
+	<string name="russianLanguage">Ryska/Русский#ru</string>
+	<string name="spanishLanguage">Spanska/español#es</string>
+
+	<string name="send">Отправить</string>
+	<string name="currently_s_Ads">Сейчас %s вакансий</string>
+	<string name="all_Of">Все </string>
+	<string name="all">Все</string>
+	<string name="filter_Already_Favroite">Фильтр уже любимая</string>
+	<string name="message_Successfully_Posted">Сообщение опубликовано успешно</string>
+	<string name="message_Not_Posted">Отправка не удалась.</string>
+	<string name="enter_Your_Search_Terms">Введите ключевые слова здесь</string>
+	<string name="loading_Jobs">Идёт загрузка дополнительных объявлений...</string>
+	<string name="employment_Office">Агентство по трудоустройству</string>
+	<string name="employment_Offices">бюро по трудоустройству</string>
+	<string name="employment_office">Агентство по трудоустройству </string>
+	
+	
+	<string name="visiting_Address">Адрес для посетителей</string>
+	<string name="postal_Address">Почтовый адрес</string>
+	<string name="phone_Hours">Часы открытия для телефонных звонков</string>
+	<string name="head_Of_Employment_Office">Глава агентства по трудоустройству</string>
+	<string name="self_Service">Самообслуживание</string>
+	<string name="personal_Service">Персональное обслуживание</string>
+	
+	<string name="published">Дата публикации:</string>
+	<string name="vacancies"> места</string>
+	<string name="vacancy"> место</string>
+	<string name="work_Location">Место нахождения работы:</string>
+	<string name="driving_License">Водительские права:</string>
+	<string name="duration_Or_WorkingHours">Длительность/Часы работы</string>
+	<string name="starting_Date">Начало работы:</string>
+	<string name="salary_Or_Wages">Зарплата</string>
+	<string name="application">Заявка</string>
+	<string name="application_Deadline">Последний срок для подачи заявки:</string>
+	<string name="indicate_Reference">Указать код ваканси:</string>
+	<string name="we_Welcome_Application_Via_Email">Мы принимаем заявки по электронной почте:</string>
+	<string name="phone">Тел:</string>
+	<string name="web">Вебсайт:</string>
+	<string name="corporate_Registration_Number">номер организации:</string>
+	<string name="ad_Id">Идентификационный номер объявления:</string>
+	<string name="contact_Persons">Контактное лицо</string>
+	<string name="access_To_Own_Car">Доступ к собственному автомобилю</string>
+	<string name="no_Access_To_Own_Car">Нет доступа к собственной машине</string>
+	
+	
+	<string name="could_Not_Shorten_URL">Не удалось сократить ссылку на работу</string>
+	
+	<string name="load_More">Загрузить больше ...</string>
+	
+	
+	<string name="deleteall">Удалить все</string>
+	
+	<string name="name">Имя:</string>
+	<string name="title">Название: </string>
+	<string name="phone_Number">Телефонный номер:</string>
+	<string name="mobile_Number">Номер мобильного:</string>
+	<string name="related_matches">Похожие результаты</string>
+	<string name="job_Info">объявление</string>
+	<string name="account">Регистрация</string>
+	<string name="message">Сообщение</string>
+	<string name="article_Link">Ссылка на работу будет\n указаны в конце сообщения</string>
+	<string name="language">Язык</string>
+	<string name="we_do_not_accept_application_via_email">Мы не принимаем заявки по электронной почте</string>
+	
+	<string name="could_not_get_employment_office">Не удалось загрузить информацию об агентстве по трудоустройству</string>
+	<string name="could_not_get_Employment_offices">Не удалось загрузить информацию об агентствах по трудоустройству</string>
+	<string name="could_not_get_job_info">Не удалось загрузить объявление</string>
+	<string name="could_not_get_Municipalities">Не удалось загрузить муниципалитеты</string>
+	<string name="could_not_get_counties">Не удалось загрузить лен</string>
+	<string name="could_not_get_location">Не удалось загрузить место работы</string>
+	<string name="could_not_get_jobs">Не удалось загрузить объявления о вакансии</string>
+	<string name="could_not_get_total_number_of_jobs">Не удалось загрузить общее число работ</string>
+	<string name="could_not_get_occupations">Не удалось загрузить професии</string>
+	<string name="could_not_get_occupational_groups_groups">Не удалось загрузить специализации</string>
+	<string name="could_not_get_occupational_fields">Не удалось загрузить сферы деятельности</string>
+	<string name="could_not_translate">Не удалось перевести</string>
+	<string name="enable_location_service">Вы хотите, чтобы позволить Место службы?</string>
+</resources>

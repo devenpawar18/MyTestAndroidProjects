@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/repos/android/!svn/ver/1683/Platsbanken/res/layout
+END
+list_item_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/android/!svn/ver/1432/Platsbanken/res/layout/list_item_row.xml
+END
+roundedshape.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/android/!svn/ver/1122/Platsbanken/res/layout/roundedshape.xml
+END
+info_header_without_margin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/android/!svn/ver/1496/Platsbanken/res/layout/info_header_without_margin.xml
+END
+resultitem_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/android/!svn/ver/1502/Platsbanken/res/layout/resultitem_row.xml
+END
+favroiteitem_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/android/!svn/ver/1293/Platsbanken/res/layout/favroiteitem_row.xml
+END
+filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/android/!svn/ver/1425/Platsbanken/res/layout/filter.xml
+END
+info_header_without_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/android/!svn/ver/1491/Platsbanken/res/layout/info_header_without_title.xml
+END
+footer_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/android/!svn/ver/1254/Platsbanken/res/layout/footer_view.xml
+END
+imageitem_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/android/!svn/ver/1293/Platsbanken/res/layout/imageitem_row.xml
+END
+list_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/android/!svn/ver/1342/Platsbanken/res/layout/list_dialog.xml
+END
+grouplayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/android/!svn/ver/1369/Platsbanken/res/layout/grouplayout.xml
+END
+contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/android/!svn/ver/1254/Platsbanken/res/layout/contact.xml
+END
+sharing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/android/!svn/ver/1502/Platsbanken/res/layout/sharing.xml
+END
+freetext_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/android/!svn/ver/1319/Platsbanken/res/layout/freetext_header.xml
+END
+dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/android/!svn/ver/1425/Platsbanken/res/layout/dialog.xml
+END
+popup_bottom_corner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/android/!svn/ver/1237/Platsbanken/res/layout/popup_bottom_corner.xml
+END
+detaillayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/android/!svn/ver/1122/Platsbanken/res/layout/detaillayout.xml
+END
+item_text_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/android/!svn/ver/1290/Platsbanken/res/layout/item_text_selector.xml
+END
+platsbanken.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/android/!svn/ver/1425/Platsbanken/res/layout/platsbanken.xml
+END
+top_image_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/android/!svn/ver/1290/Platsbanken/res/layout/top_image_selector.xml
+END
+dialog_item_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/android/!svn/ver/1293/Platsbanken/res/layout/dialog_item_row.xml
+END
+bottom_image_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/android/!svn/ver/1290/Platsbanken/res/layout/bottom_image_selector.xml
+END
+skicka_image_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/android/!svn/ver/1122/Platsbanken/res/layout/skicka_image_selector.xml
+END
+list_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/android/!svn/ver/1293/Platsbanken/res/layout/list_selector.xml
+END
+list_value_text_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/android/!svn/ver/1293/Platsbanken/res/layout/list_value_text_selector.xml
+END
+maplayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/android/!svn/ver/1317/Platsbanken/res/layout/maplayout.xml
+END
+title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/android/!svn/ver/1502/Platsbanken/res/layout/title.xml
+END
+image_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/android/!svn/ver/1263/Platsbanken/res/layout/image_selector.xml
+END
+singleitem_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/android/!svn/ver/1293/Platsbanken/res/layout/singleitem_row.xml
+END
+localization.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/android/!svn/ver/1432/Platsbanken/res/layout/localization.xml
+END
+popup_middle_corner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/android/!svn/ver/1219/Platsbanken/res/layout/popup_middle_corner.xml
+END
+splash_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/android/!svn/ver/1219/Platsbanken/res/layout/splash_screen.xml
+END
+large_image_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/android/!svn/ver/1496/Platsbanken/res/layout/large_image_selector.xml
+END
+popup_top_corner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/android/!svn/ver/1219/Platsbanken/res/layout/popup_top_corner.xml
+END
+middle_image_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/android/!svn/ver/1290/Platsbanken/res/layout/middle_image_selector.xml
+END
+settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/android/!svn/ver/1425/Platsbanken/res/layout/settings.xml
+END
+multipleitem_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/android/!svn/ver/1293/Platsbanken/res/layout/multipleitem_row.xml
+END
+info_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/android/!svn/ver/1295/Platsbanken/res/layout/info_header.xml
+END
+textsearch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/android/!svn/ver/1683/Platsbanken/res/layout/textsearch.xml
+END
+popup_corner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/android/!svn/ver/1296/Platsbanken/res/layout/popup_corner.xml
+END
+resultlayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/android/!svn/ver/1219/Platsbanken/res/layout/resultlayout.xml
+END
+favroitelayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/android/!svn/ver/1425/Platsbanken/res/layout/favroitelayout.xml
+END
+list_text_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/android/!svn/ver/1293/Platsbanken/res/layout/list_text_selector.xml
+END

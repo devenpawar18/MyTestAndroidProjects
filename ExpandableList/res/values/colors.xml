@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<drawable name="white">#FFFFFF</drawable>
+	<drawable name="black">#000000</drawable>
+	<drawable name="planningControl">#dbe5f1</drawable>
+	<drawable name="infrastructure">#00b0f0</drawable>
+	<drawable name="preparation">#92d050</drawable>
+	<drawable name="specification">#ffc000</drawable>
+	<drawable name="execution">#fac090</drawable>
+	<drawable name="completion">#ffffff</drawable>
+	
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HTMLPageDemoActivity!</string>
+    <string name="app_name">HTMLPageDemo</string>
+    <!-- details -->
+    <string name="function">function:</string>
+    <string name="materials">materials:</string>
+    <string name="measurements">measurements:</string>
+    <string name="item_details">item details:</string>
+    <string name="country_of_origin">country of origin:</string>
+    <string name="item_number">item number:</string>
+    <string name="shipping">shipping:</string>
+
+    <!-- tech specs -->
+    <string name="toe_box_fit">toe box fit:</string>
+    <string name="insole_material">insole material:</string>
+    <string name="product_weight">product weight:</string>
+    <string name="recommended_surface">recommended surface:</string>
+    <string name="model_number">model number:</string>
+
+</resources>

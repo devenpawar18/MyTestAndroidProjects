@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GridViewDemoActivity!</string>
+    <string name="app_name">GridViewDemo</string>
+    <string-array name="titles">
+        <item>deven</item>
+        <item>deven</item>
+        <item>deven</item>
+        <item>deven</item>
+        <item>deven</item>
+        <item>deven</item>
+        <item>deven</item>
+        <item>deven</item>
+        <item>deven</item>
+        <item>deven</item>
+    </string-array>
+    
+</resources>

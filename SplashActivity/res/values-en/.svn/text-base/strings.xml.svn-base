@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Platsbanken</string>
+	<string name="search">Search</string>
+	<string name="favorites">Favorites</string>
+	<string name="ads">Ads</string>
+	<string name="Searches">Searches</string>
+	<string name="recent">Recent</string>
+	<string name="go">GO</string>
+	<string name="text_Search">Text search</string>
+	<string name="search_By_Job_Location">Search by job location</string>
+	<string name="search_By_Occupation">Search by occupation</string>
+	<string name="text_Search_Label">Text search</string>
+	<string name="occupation">Occupation</string>
+	<string name="search_Occupation">Search Occupation</string>
+	<string name="occupations">Occupations</string>
+
+	<string name="job_Location">Job Location</string>
+	<string name="technical_Support">Technical Support</string>
+	<string name="employment">Employment</string>
+	<string name="customer_Service">Customer Service</string>
+	<string name="share">Share</string>
+	<string name="twitter">Twitter</string>
+	<string name="facebook">Facebook</string>
+	<string name="linkedIn">LinkedIn</string>
+	<string name="email">Email</string>
+	<string name="open_In_Browser">Open in browser</string>
+	<string name="cancel">Cancel</string>
+
+	<string name="mail">Mail</string>
+	<string name="call">Call</string>
+	<string name="delete">Delete</string>
+	<string name="map">Map</string>
+	<string name="translate">Translate</string>
+
+	<string name="contact">Contact</string>
+
+	<string name="click_Here_To_Filter">Click here to filter</string>
+	<string name="loading">Loading...</string>
+
+	<string name="sign_In">Log in to</string>
+	<string name="municipality">Municipality</string>
+	<string name="municipalities">Municipalities</string>
+	<string name="filter">Filter</string>
+	<string name="sign_Out_Of">Log out of</string>
+	<string name="no_Ads_Found">No ads found</string>
+	<string name="login_Is_Not_Successful">Login is not successful</string>
+	<string name="occupational_Field">Occupational Field</string>
+	<string name="occupational_Fields">occupational fields</string>
+	<string name="add_Filter_Favorite">Add filter favorite</string>
+	<string name="job_Ads">Job ads</string>
+	<string name="ad">ad</string>
+	<string name="occupational_Group">Occupational Group</string>
+	<string name="occupational_Groups">occupational groups</string>
+	<string name="County">County</string>
+	<string name="counties">counties</string>
+	<string name="ads_In"> ads in </string>
+	<string name="ads_For">annonser för</string>
+	<string name="platsbanken">Platsbanken</string>
+	<string name="ads_Found"> Ads found</string>
+
+	<string name="techsupportNumberText">0771-622 000</string>
+	<string name="cxSupportNumberText">0771-416 416</string>
+	<string name="visit_Us">Visit Us</string>
+	<string name="follow_Us_On">Follow us on</string>
+	<string name="send_Email">Send email</string>
+
+	<string name="englishLanguage">Engelska/English#en</string>
+	<string name="swedishLanguage">Svenska#sv</string>
+	<string name="arabicLanguage">Arabiska/اللغة العربية#ar</string>
+	<string name="frenchLanguage">Franska/français#fr</string>
+	<string name="russianLanguage">Ryska/Русский#ru</string>
+	<string name="spanishLanguage">Spanska/español#es</string>
+
+	<string name="send">Send</string>
+	<string name="currently_s_Ads">Currently %s ads</string>
+	<string name="all_Of">All of </string>
+	<string name="all">All</string>
+	<string name="filter_Already_Favroite">Filter already favroite</string>
+	<string name="message_Successfully_Posted">Message successfully posted</string>
+	<string name="message_Not_Posted">Could not send.</string>
+	<string name="enter_Your_Search_Terms">Enter your search terms...</string>
+	<string name="loading_Jobs">Loading Jobs</string>
+	<string name="employment_Office">Employment Office</string>
+	<string name="employment_Offices">employment offices</string>
+	<string name="employment_office">employment office</string>
+	
+	
+	<string name="visiting_Address">Visiting address</string>
+	<string name="postal_Address">Postal address</string>
+	<string name="phone_Hours">Phone hours</string>
+	<string name="head_Of_Employment_Office">Head of Employment Office</string>
+	<string name="self_Service">Self-service</string>
+	<string name="personal_Service">Personal service</string>
+	
+	<string name="published">Published: </string>
+	<string name="vacancies"> Vacancies</string>
+	<string name="vacancy"> Vacancy</string>
+	<string name="work_Location">Job location:</string>
+	<string name="driving_License">Drivers license:</string>
+	<string name="duration_Or_WorkingHours">Duration / Working hours</string>
+	<string name="starting_Date">Starting Date:</string>
+	<string name="salary_Or_Wages">Salary/Wages</string>
+	<string name="application">Application</string>
+	<string name="application_Deadline">Application deadline: </string>
+	<string name="indicate_Reference">Indicate reference: </string>
+	<string name="we_Welcome_Application_Via_Email">We welcome application via email: </string>
+	<string name="phone">Phone:</string>
+	<string name="web">Web: </string>
+	<string name="corporate_Registration_Number">Corporate registration number:</string>
+	<string name="ad_Id">Ad ID:</string>
+	<string name="contact_Persons">Contact persons</string>
+	<string name="access_To_Own_Car">Access to own car</string>
+	<string name="no_Access_To_Own_Car">No access to own car</string>
+	
+	
+	<string name="could_Not_Shorten_URL">Could not shorten URL</string>
+	
+	<string name="load_More">Load more...</string>
+
+	
+	<string name="deleteall">Delete all</string>
+	
+	<string name="name">Name: </string>
+	<string name="title">Title: </string>
+	<string name="phone_Number">Phone number: </string>
+	<string name="mobile_Number">Mobile number: </string>
+	<string name="related_matches">Related matches</string>
+	<string name="job_Info">ad</string>
+	<string name="account">Account</string>
+	<string name="message">Message</string>
+	<string name="article_Link">A link to the article will be placed in the end of the message.</string>
+	<string name="language">Language</string>
+	<string name="we_do_not_accept_application_via_email">We do not accept application via email:</string>
+	
+	<string name="could_not_get_employment_office">Could not get employment office</string>
+	<string name="could_not_get_Employment_offices">Could not get employment offices</string>
+	<string name="could_not_get_job_info">Could not get ad</string>
+	<string name="could_not_get_Municipalities">Could not get municipalities</string>
+	<string name="could_not_get_counties">Could not get counties</string>
+	<string name="could_not_get_location">Could not get ad</string>
+	<string name="could_not_get_jobs">Could not get ads</string>
+	<string name="could_not_get_total_number_of_jobs">Could not get total number of ads</string>
+	<string name="could_not_get_occupations">Could not get occupations</string>
+	<string name="could_not_get_occupational_groups_groups">Could not get occupational groups</string>
+	<string name="could_not_get_occupational_fields">Could not get occupational fields</string>
+	<string name="could_not_translate">Could not translate</string>
+	<string name="enable_location_service">Do you want to enable Location service?</string>
+</resources>

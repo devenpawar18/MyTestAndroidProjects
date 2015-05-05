@@ -1,0 +1,15 @@
+RedLaser Android SDK Release Notes
+---------------------------------------------------------------------
+These notes are in reverse chronological order with the newest at the top.
+
+
+20110121 Version 1.0.1
+---------------------------------------------------------------------
+* Added QR Code, Code 128, Code 93, Code 39, DataMatrix, ITF, RSS14
+* Improved Sample App
+---------------------------------------------------------------------
+20101215 Version 1.0.0 
+* Initial Release
+* Support for UPC-A/UPC-E, EAN-8/EAN-13, and StickyBits barcodes
+* Support for Android OS 1.6 and above (MinSDKVersion=4)
+---------------------------------------------------------------------

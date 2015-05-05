@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+	<RelativeLayout android:layout_width="fill_parent"
+		android:layout_height="50dip" android:background="#000000" android:id="@+id/title">
+		<ImageView android:id="@+id/title_icon"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@drawable/icon" android:layout_alignParentRight="true"
+			android:layout_centerVertical="true" android:paddingRight="9dip">
+		</ImageView>
+		<TextView android:id="@+id/title_text" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="Choose Industry"
+			android:textStyle="bold" android:textColor="#ffffff"
+			android:singleLine="true" android:ellipsize="end" android:textSize="20dip"
+			android:layout_centerInParent="true">
+		</TextView>
+	</RelativeLayout>
+</merge>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scrollbar_2_text"> ScrollViewActivity!</string>
+
+    <string name="app_name">ScrollView Project</string>
+</resources>

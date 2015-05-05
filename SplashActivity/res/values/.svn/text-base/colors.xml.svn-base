@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<drawable name="white">#FFFFFF</drawable>
+	<drawable name="button_white">#FFFFFF</drawable>
+	<drawable name="black">#000000</drawable>
+	<drawable name="dialog_black">#736F6E</drawable>
+	<drawable name="red">#CF2A27</drawable>
+	<drawable name="text_blue">#8697B6</drawable>
+	<drawable name="title_blue">#8094AE</drawable>
+	<drawable name="text_gray">#868686</drawable>
+	<drawable name="title_divider">#5A1906</drawable>
+	<drawable name="button_blue">#4076E1</drawable>
+	<drawable name="all_bgColorOpaque">#809c3535</drawable>
+	<drawable name="editText_bg">#c28483</drawable>
+	<drawable name="signin_button_bg">#d3b8b8</drawable>
+	<drawable name="orangeColor">#F05414</drawable>
+	<drawable name="lightorangeColor">#FF9933</drawable>
+	<drawable name="blueColor">#385487</drawable>
+	<drawable name="dividerColor">#E5E5E5</drawable>
+	<drawable name="contactBorderColor">#ABABAB</drawable>
+	<drawable name="contactHeaderTextColor">#4c566c</drawable>
+	<drawable name="contactTextColor">#040404</drawable>
+	<drawable name="resultFilterBackground">#E4E4E4</drawable>
+	<drawable name="selectorGrey">#A8A8A8</drawable>
+</resources>

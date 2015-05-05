@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/rl1" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="#ffffff">
+
+	<TextView android:id="@+id/title" android:text="Facebook"
+		android:textColor="#000000" android:layout_height="wrap_content"
+		android:layout_width="wrap_content" android:layout_centerHorizontal="true"
+		android:textSize="25dip">
+	</TextView>
+
+	<TextView android:id="@+id/desc"
+		android:text="This is a social networking site which enables you to stay in touch with your closeones"
+		android:textColor="#000000" android:layout_height="wrap_content"
+		android:layout_below="@+id/title" android:layout_width="wrap_content"
+		android:textSize="15dip">
+	</TextView>
+	<Button android:id="@+id/back" android:layout_height="wrap_content" android:text="@string/button"
+		android:layout_width="wrap_content" android:layout_below="@+id/desc" android:layout_centerHorizontal="true"/>
+
+
+
+</RelativeLayout>

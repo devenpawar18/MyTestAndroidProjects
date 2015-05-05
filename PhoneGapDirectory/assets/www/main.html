@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script src="jquery-1.6.1.js" type="text/javascript"></script>
+<script src="custom.js" type="text/javascript"></script>
+
+</head>
+<body bgcolor='cyan'>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#test").rssfeed("http://digitallife.nl/feed/rss/20/1?apiKey=4495033b8015706b6b00709e6103c974",{
+		limit:20
+	});
+});
+</script>
+
+<div id="test"></div>
+<br><br><br>
+</body>
+</html>

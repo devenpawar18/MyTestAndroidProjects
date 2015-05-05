@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="white">#FFFFFF</drawable>
+    <drawable name="black">#000000</drawable>
+    <drawable name="copyright_color">#231f20</drawable>
+    <drawable name="skyBlue">#6099ac</drawable>
+    <drawable name="dividerGrey">#cdcfce</drawable>
+    <drawable name="brown1">#e5e0da</drawable>
+    <drawable name="brown2">#cdc6bc</drawable>
+    <drawable name="background_color">#D7D7D7</drawable>
+    <drawable name="textDOC">#006482</drawable>
+    <drawable name="green">#718216</drawable>
+    <drawable name="light_grey">#D0D0D0</drawable>
+    <drawable name="dark_grey">#707070</drawable>
+    <drawable name="grey_text">#666666</drawable>
+    <drawable name="docSearchResultsBG">#9fb8bf</drawable>
+    <drawable name="linkColor">#82AEB6</drawable>
+    <drawable name="borderColor">#A0A0A0</drawable>
+    <drawable name="vanilla">#EEE4CB</drawable>
+    <drawable name="strokeColor">#888886</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="grey">#cccccc</drawable>
+    <drawable name="lightbrown">#993300</drawable>
+    <drawable name="filtertext_color">#333333</drawable>
+    <drawable name="text_gray">#868686</drawable>
+    <drawable name="orangeColor">#F05414</drawable>
+    <drawable name="title_divider">#5A1906</drawable>
+	<drawable name="seekbar_unfilled_divider_color">#ababab</drawable>		
+    <drawable name="account_setting">#545454</drawable>
+	<drawable name="ourprice_checkout">#999999</drawable>		
+	<drawable name="filterkey_header_line_color">#818181</drawable>
+ 	<drawable name="filterkey_header_color">#ebebeb</drawable>
+ 	<drawable name="semi_transparent_color">#bfffffff</drawable>
+
+</resources>

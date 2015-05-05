@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.arbetsformedlingen.activity"
+      android:versionCode="1"
+      android:versionName="1.0"
+      >
+    <application android:icon="@drawable/icon" android:label="@string/app_name" >
+    	<activity android:name=".SplashActivity" android:screenOrientation="portrait"
+                  android:label="@string/app_name" android:theme="@android:style/Theme.NoTitleBar" android:configChanges="locale">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".PlatsbankenActivity" android:screenOrientation="portrait"
+                  android:label="@string/app_name" android:theme="@android:style/Theme.NoTitleBar" android:configChanges="locale">
+<!--             <intent-filter> -->
+<!--                 <action android:name="android.intent.action.MAIN" /> -->
+<!--                 <category android:name="android.intent.category.LAUNCHER" /> -->
+<!--             </intent-filter> -->
+        </activity>
+        <activity android:name=".LocalizationActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"
+        android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+        <activity android:name=".SearchActivity" android:theme="@android:style/Theme.NoTitleBar"
+        android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		  <activity android:name=".SearchProfessionActivity" android:theme="@android:style/Theme.NoTitleBar" 
+ 		  android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		<activity android:name=".ProfessionActivity" android:theme="@android:style/Theme.NoTitleBar"
+ 		android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		<activity android:name=".SubProfessionActivity" android:theme="@android:style/Theme.NoTitleBar" 
+ 		android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		<activity android:name=".FavroiteActivity" android:theme="@android:style/Theme.NoTitleBar" 
+ 		android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		<activity android:name=".JobDetailActivity" android:theme="@android:style/Theme.NoTitleBar"
+ 		android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		<activity android:name=".InfoDetailActivity" android:theme="@android:style/Theme.NoTitleBar"
+ 		android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		<activity android:name=".OfficeDetailActivity" android:theme="@android:style/Theme.NoTitleBar"
+ 		android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		<activity android:name=".WorkLocationActivity" android:theme="@android:style/Theme.NoTitleBar"
+ 		android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		<activity android:name=".ContactActivity" android:theme="@android:style/Theme.NoTitleBar"
+ 		android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		<activity android:name=".ResultListActivity" android:theme="@android:style/Theme.NoTitleBar"
+ 		android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		<activity android:name=".FilterActivity" android:theme="@android:style/Theme.NoTitleBar"
+ 		android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		<activity android:name=".CityActivity" android:theme="@android:style/Theme.NoTitleBar"
+ 		android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		<activity android:name=".GlobalMapActivity" android:theme="@android:style/Theme.NoTitleBar"
+ 		android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden">
+ 		</activity>
+ 		<activity android:name="SharingActivity" android:theme="@android:style/Theme.NoTitleBar"
+ 		android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden"
+ 		android:launchMode="singleInstance" android:windowSoftInputMode="adjustResize">
+ 		<intent-filter>
+			<action android:name="android.intent.action.VIEW" />
+			<category android:name="android.intent.category.DEFAULT" />
+			<category android:name="android.intent.category.BROWSABLE" />
+			<data android:scheme="setting" android:host="callbackurl" />
+		</intent-filter>
+ 		</activity>
+ 		<provider android:name="com.arbetsformedlingen.controller.AppContentProvider"
+			android:authorities="com.arbetsformedlingen.controller.AppContentProvider">
+		</provider>
+		<uses-library android:name="com.google.android.maps" />
+	</application>
+	<uses-sdk android:minSdkVersion="4" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.CALL_PHONE" />
+	<uses-permission android:name="android.permission.CALL_PRIVILEGED" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+   
+	<supports-screens android:smallScreens="true"
+		android:normalScreens="true" android:largeScreens="true" />
+</manifest> 

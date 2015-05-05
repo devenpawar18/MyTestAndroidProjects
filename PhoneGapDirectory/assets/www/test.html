@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Single page template</title>
+<link rel="stylesheet"
+	href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script
+	src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+</head>
+
+<body>
+
+	<div data-role="page" data-theme="b">
+
+		<a href="#" id="btnSave" data-role="button">Save</a>
+		<script type="text/javascript">
+			$("#btnSave").click(function(e) {
+				e.preventDefault();
+				alert("btnSave isclicked");
+				return false;
+			});
+		</script>
+	</div>
+	<!-- /page -->
+
+</body>
+</html>

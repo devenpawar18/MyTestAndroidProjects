@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Page</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+	href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script
+	src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="cordova-1.7.0rc1.js"></script>
+<script type="text/javascript" charset="utf-8">
+	var data = null;
+	var mainarr = null;
+	var subarr = null;
+	var obj = '';
+
+	// Wait for Cordova to load
+	//
+	// 	function onLoad() {
+	document.addEventListener("deviceready", onDeviceReady, false);
+	// 	}
+
+	// Cordova is ready
+	//
+	function onDeviceReady() {
+		window.requestFileSystem(LocalFileSystem.PERSISTENT, 0, gotFS, fail);
+		document.addEventListener("backbutton", onBackKeyDown, false);
+	}
+
+	function onBackKeyDown() {
+		if ($.mobile.activePage.attr('id') == 'page1') {
+			device.exitApp();
+		} else
+			history.back(1);
+
+	}
+
+	function gotFS(fileSystem) {
+		fileSystem.root.getFile("info.txt", null, gotFileEntry, fail);
+	}
+
+	function gotFileEntry(fileEntry) {
+		fileEntry.file(gotFile, fail);
+	}
+
+	function gotFile(file) {
+		readDataUrl(file);
+		readAsText(file);
+	}
+
+	function readDataUrl(file) {
+		var reader = new FileReader();
+		reader.onloadend = function(evt) {
+			console.log("Read as data URL");
+			console.log(evt.target.result);
+		};
+		reader.readAsDataURL(file);
+	}
+
+	function readAsText(file) {
+		var reader = new FileReader();
+		reader.onloadend = function(evt) {
+			console.log("Read as text");
+			console.log(evt.target.result);
+			data = evt.target.result;
+			// 			alert(evt.target.result);
+			// 			$("#para").text(data);
+
+			// 			alert(data);
+			mainarr = data.split('$');
+
+			$.each(mainarr, function(index, value) {
+				if (index < mainarr.length - 1) {
+
+					subarr = value.split('|');
+					$("#plist")
+							.append(
+									'<li><a style="padding:10px;" href="#page2" data-id="idd">'
+											+ subarr[0] + ' ' + subarr[1]
+											+ '</a></li>');
+					$("#plist").listview("refresh");
+				}
+			});
+
+			$("li").live("click", function() {
+
+				var app1 = mainarr[$(this).index()];
+				var entity = app1.split('|');
+
+				// 				alert(entity);
+				$('#firstname').text(entity[0]);
+				$('#lastname').text(entity[1]);
+				$("#mobilenumber").text(entity[2]);
+				$("#mobilenumber").attr("href", "tel:" + entity[2]);
+				$("#emailid").text(entity[3]);
+				$("#emailid").attr("href", "mailto:" + entity[3]);
+
+			});
+
+		};
+		reader.readAsText(file);
+		// 		alert(file.val());
+
+	}
+
+	function fail(evt) {
+		// 		alert("FAILED...");
+		$('#plist').append('<li>No Contact Found...</li>');
+		console.log(evt.target.error.code);
+	}
+</script>
+<!-- <script src="jquery.jsonp-2.3.0.js"></script> -->
+</head>
+<body style="padding-top: 20px;">
+
+	<div data-role="page" id="page1" data-theme="b">
+		<div data-role="header" id="hdrMain" name="hdrMain"
+			data-nobackbtn="true">
+			<h1>Contact List</h1>
+		</div>
+
+		<a href="camera.html" data-role="button" data-icon="plus"
+			style="margin: 15px;" data-iconpos="left" data-mini="true"
+			data-inline="true">Add New Contact</a>
+		<ul id="plist" data-role="listview" data-inset="true"
+			style="margin: 10px; margin-top: 20px;" data-filter="true">
+
+		</ul>
+
+		<!-- 		<div data-role="footer" id="ftrConfirmation" name="ftrConfirmation">Footer</div> -->
+
+	</div>
+
+	<div data-role="page" id="page2" data-theme="b">
+
+		<div data-role="header">
+			<h1>Contact Details</h1>
+		</div>
+		<!-- /header -->
+		<script type="text/javascript">
+			
+		</script>
+
+		<div data-role="content">
+			<label for="firstname" style="color: #0A6E9A;">First Name:</label>
+			<p id="firstname" name="firstname"></p>
+			<label style="color: #0A6E9A;" for="lastname">Last Name:</label>
+			<p id="lastname" name="lastname"></p>
+			<label style="color: #0A6E9A;" for="mobilenumber">Mobile
+				number:</label> </br> </br> <a id="mobilenumber" name="mobilenumber"></a></br> </br> <label
+				style="color: #0A6E9A;" for="emailid">Email ID:</label> </br> </br> <a
+				id="emailid" name="emailid"></a>
+			<!-- 			<p id="mobilenumber" name="mobilenumber"></p> -->
+
+		</div>
+		<!-- /content -->
+
+		<!-- 		<div data-role="footer"> -->
+		<!-- 			<h4>Page Footer</h4> -->
+		<!-- 		</div> -->
+		<!-- /footer -->
+	</div>
+	<!-- /page -->
+
+
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:background="@layout/list_selector"
+	android:layout_height="50dip">
+	<View android:id="@+id/divider" android:layout_width="fill_parent"
+		android:layout_height="2dip" android:background="@drawable/dividerColor"
+		android:layout_alignParentBottom="true" />
+	<RelativeLayout android:id="@+id/favroiteItemLayout"
+		android:layout_width="fill_parent" android:layout_marginLeft="10dip"
+		android:layout_height="wrap_content" android:layout_centerVertical="true">
+		<TextView android:layout_height="wrap_content" android:id="@+id/titleTextView"
+			android:textColor="@layout/list_text_selector" android:textSize="16dip"
+			android:textStyle="bold" 
+			android:layout_width="fill_parent" android:singleLine="true"
+			android:ellipsize="end" />
+		<TextView android:layout_height="wrap_content" android:id="@+id/locationTextView"
+			android:textSize="13dip" android:singleLine="true" android:ellipsize="end"
+			android:textColor="@layout/list_text_selector" android:layout_below="@+id/titleTextView"
+			android:layout_marginTop="2dip" android:layout_width="fill_parent" />
+	</RelativeLayout>
+</RelativeLayout>

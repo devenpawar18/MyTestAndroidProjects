@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="button_text_padding">10dip</dimen>
+    <dimen name="picture_preview_width">600dip</dimen>
+    <dimen name="picture_preview_height">800dip</dimen>
+
+</resources>

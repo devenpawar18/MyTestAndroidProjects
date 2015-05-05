@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="facebook">FACEBOOK!</string>
+	<string name="twitter">TWITTER!</string>
+	<string name="youtube">YouTube!</string>
+	<string name="app_name">Single Activity</string>
+	<string name="description">Description</string>
+	<string name="button">Click Me</string>
+
+</resources>
+

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/white" >
+
+    <ImageView
+        android:id="@+id/aged_iamge"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitStart" />
+
+    <RelativeLayout
+        android:id="@+id/header_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/result_top" >
+
+        <Button
+            android:id="@+id/aging_take_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="5dip"
+            android:background="@drawable/button_beginopnieuw"
+            android:onClick="onAgingClick" />
+
+        <Button
+            android:id="@+id/aging_save_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="5dip"
+            android:background="@drawable/button_save"
+            android:onClick="onAgingClick" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/footer_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/adjustment_bottom"
+        android:padding="@dimen/button_text_padding" >
+
+        <ImageView
+            android:id="@+id/facebook"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="10dip"
+            android:layout_marginLeft="40dip"
+            android:background="@drawable/button_facebook"
+            android:onClick="onAgingClick"
+            android:padding="@dimen/button_text_padding" />
+
+        <ImageView
+            android:id="@+id/twitter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="40dip"
+            android:layout_toRightOf="@id/facebook"
+            android:background="@drawable/button_twitter"
+            android:onClick="onAgingClick"
+            android:padding="@dimen/button_text_padding" />
+
+        <ImageView
+            android:id="@+id/company_website"
+            style="@style/ageon_text_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="10dip"
+            android:background="@drawable/button_aegon"
+            android:onClick="onAgingClick"
+            android:padding="@dimen/button_text_padding" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,38 @@
+
+package com.arbetsformedlingen.externalutils.linkedinapi.schema.dom;
+
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+
+import com.arbetsformedlingen.externalutils.linkedinapi.schema.Country;
+
+public class CountryImpl
+    extends BaseSchemaEntity
+    implements Country
+{
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = -3791971546760035359L;
+	protected String code;
+
+    public String getCode() {
+        return code;
+    }
+
+    public void setCode(String value) {
+        this.code = value;
+    }
+
+	@Override
+	public void init(Element element) {
+		setCode(DomUtils.getElementValueFromNode(element, "code"));
+	}
+
+	@Override
+	public Element toXml(Document document) {
+		Element element = document.createElement("country");
+		DomUtils.setElementValueToNode(element, "code", getCode());
+		return element;
+	}
+}

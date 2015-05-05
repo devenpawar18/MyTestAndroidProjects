@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/enumeration
+END
+HttpMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/enumeration/HttpMethod.java
+END
+EducationsField.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/enumeration/EducationsField.java
+END
+ProfileType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/enumeration/ProfileType.java
+END
+ProfileField.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/enumeration/ProfileField.java
+END
+SearchParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/enumeration/SearchParameter.java
+END
+FieldEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/enumeration/FieldEnum.java
+END
+SearchSortOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/enumeration/SearchSortOrder.java
+END
+PositionsField.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/enumeration/PositionsField.java
+END
+NetworkUpdateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/enumeration/NetworkUpdateType.java
+END

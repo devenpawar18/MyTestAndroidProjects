@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">ActionBarSherlockTutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_action_bar_sherlock">Hello</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="phone">Incidents</string>
+    <string name="computer">Parts</string>
+    <string name="gamepad">Gamepad</string>
+    <string name="camera">Camera</string>
+    <string name="video">Video</string>
+    <string name="email">EMail</string>
+
+</resources>

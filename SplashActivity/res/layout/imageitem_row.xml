@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="48dip"
+	android:id="@+id/imageItemLayout" android:background="@layout/list_selector">
+	<RelativeLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:layout_centerInParent="true">
+		<View android:layout_width="fill_parent" android:layout_height="1dip"
+			android:background="@drawable/contactBorderColor" android:layout_alignParentBottom="true" />
+		<View android:layout_width="1dip" android:layout_height="fill_parent"
+			android:background="@drawable/contactBorderColor" android:layout_alignParentLeft="true" />
+		<ImageView android:layout_height="wrap_content" android:id="@+id/itemImageView"
+			android:src="@drawable/contact_list_icon" android:layout_centerVertical="true"
+			android:layout_width="wrap_content" android:layout_marginLeft="10dip" />
+		<TextView android:layout_height="wrap_content" android:id="@+id/valueTextView"
+			android:textSize="16dip" android:textStyle="bold"
+			android:layout_centerVertical="true" android:layout_marginLeft="10dip"
+			android:layout_marginRight="10dip" android:singleLine="true"
+			android:ellipsize="end" android:textColor="@layout/list_text_selector"
+			android:layout_width="wrap_content" android:layout_toRightOf="@+id/itemImageView" />
+		<View android:layout_width="1dip" android:layout_height="fill_parent"
+			android:background="@drawable/contactBorderColor" android:layout_alignParentRight="true" />
+			
+	</RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.ebay.rlsample"
+      android:versionCode="1"
+      debuggable="true"
+      android:versionName="1.0">
+    <application android:icon="@drawable/icon" android:label="@string/app_name" android:debuggable="true">
+        <activity android:name=".RLSample" android:theme="@android:style/Theme.NoTitleBar"
+                  android:label="@string/app_name" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    <activity android:name="RedLaserSDK" android:configChanges="keyboardHidden|orientation" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar"></activity>
+</application>
+    <uses-sdk android:minSdkVersion="4" />
+
+
+
+
+<uses-permission android:name="android.permission.CAMERA"></uses-permission>
+<uses-permission android:name="android.permission.READ_PHONE_STATE"></uses-permission>
+<uses-permission android:name="android.permission.INTERNET"></uses-permission>
+</manifest> 

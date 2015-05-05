@@ -1,0 +1,34 @@
+
+src/com/splashscreen/activities/SplashScreen.java:13	Avoid excessively long variable names like START_HOMEACTIVITY
+src/com/splashscreen/activities/SplashScreen.java:16	Avoid excessively long variable names like savedInstanceState
+src/com/splashscreen/activities/SplashScreen.java:16	Parameter 'savedInstanceState' is not assigned and could be declared final
+src/com/splashscreen/activities/SplashScreen.java:20	Local variable 'msg' could be declared final
+src/com/splashscreen/activities/SplashScreen.java:25	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/splashscreen/activities/SplashScreen.java:25	Use explicit scoping instead of the default package private level
+src/com/splashscreen/activities/SplashScreen.java:28	Parameter 'msg' is not assigned and could be declared final
+src/com/splashscreen/activities/SplashScreen.java:32	Local variable 'intent' could be declared final
+src/com/splashscreen/activities/SplashScreen.java:40	Parameter 'event' is not assigned and could be declared final
+src/com/splashscreen/activities/SplashScreen.java:40	Parameter 'keyCode' is not assigned and could be declared final
+src/com/splashscreen/activities/SplashScreen.java:43	A method should have only one exit point, and that should be the last statement in the method
+src/com/splashscreen/activities/SplashScreen.java:43	Avoid using if...else statements without curly braces
+src/com/splashscreen/activities/SplashScreen.java:45	Avoid using if...else statements without curly braces
+src/com/splashscreen/activities/SplashScreenTestActivity.java:3	Avoid unused imports such as 'java.util.ArrayList'
+src/com/splashscreen/activities/SplashScreenTestActivity.java:3	Avoid unused imports such as 'java.util.ArrayList'
+src/com/splashscreen/activities/SplashScreenTestActivity.java:5	Avoid unused imports such as 'android.content.Context'
+src/com/splashscreen/activities/SplashScreenTestActivity.java:5	Avoid unused imports such as 'android.content.Context'
+src/com/splashscreen/activities/SplashScreenTestActivity.java:10	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/splashscreen/activities/SplashScreenTestActivity.java:10	Use explicit scoping instead of the default package private level
+src/com/splashscreen/activities/SplashScreenTestActivity.java:14	Avoid excessively long variable names like savedInstanceState
+src/com/splashscreen/activities/SplashScreenTestActivity.java:14	Parameter 'savedInstanceState' is not assigned and could be declared final
+src/com/splashscreen/activities/SplashScreenTestActivity.java:25	Avoid printStackTrace(); use a logger call instead.
+src/com/splashscreen/activities/SplashScreenTestActivity.java:30	A method/constructor shouldn't explicitly throw java.lang.Exception
+src/com/splashscreen/activities/SplashScreenTestActivity.java:30	A method/constructor shouldn't explicitly throw java.lang.Exception
+src/com/splashscreen/activities/SplashScreenTestActivity.java:32	Found 'DU'-anomaly for variable 'formatedString' (lines '32'-'60').
+src/com/splashscreen/activities/SplashScreenTestActivity.java:32	Local variable 'formatedString' could be declared final
+src/com/splashscreen/activities/SplashScreenTestActivity.java:35	Local variable 'arr' could be declared final
+src/com/splashscreen/activities/SplashScreenTestActivity.java:40	Avoid variables with short names like j
+src/com/splashscreen/activities/SplashScreenTestActivity.java:40	Local variable 'j' could be declared final
+src/com/splashscreen/activities/SplashScreenTestActivity.java:40	String.indexOf(char) is faster than String.indexOf(String).
+src/com/splashscreen/activities/SplashScreenTestActivity.java:41	Local variable 'str' could be declared final
+src/com/splashscreen/activities/SplashScreenTestActivity.java:53	Avoid printStackTrace(); use a logger call instead.
+src/com/splashscreen/activities/SplashScreenTestActivity.java:58	Avoid returning from a finally block

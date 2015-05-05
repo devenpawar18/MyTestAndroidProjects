@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+	<!-- !!! ARRAYS USED FOR SPINNERS !!! -->
+	<string-array name="language">
+		<item>English </item>
+		<item>Dutch </item>
+		<item> Finnish </item>
+		<item>French </item>
+	</string-array>
+
+
+
+
+
+
+
+
+</resources>

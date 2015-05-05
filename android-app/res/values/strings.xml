@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Aging App</string>
+	<string name="go_forward_in_time">Ga vooruit in de tijd</string>
+	<string name="saving_image">Opslaan van afbeelding</string>
+	<string name="pensioneer_me">Pensioneer me!</string>
+	<string name="move_marker">Verplaats de markeringen indien nodig naar de juiste plek</string>
+	<string name="komt_eerder">komt eerder dan je denkt</string>
+	<string name="later">Later &amp;#8230;</string>
+	<string name="in_ekele">In enkele seconden weet je hoe je er later uitziet.
+		Bij &lt;b> Aegon PPi &lt;/b> weet je 24/7 hoe je er financieel
+		voorstaat</string>
+	<string name="infomsg">Welkom bij Aegon</string>
+	<string name="yes">Ja</string>
+	<string name="no">Niet</string>
+	<string name="ok">OK</string>
+	<string name="infotitle">Welkom</string>
+	<string name="image_saved">Afbeelding opgeslagen</string>
+	<string name="image_not_saved">Afbeelding niet opgeslagen</string>
+	<string name="open_cam_title">Wil je echt wilt gaan?</string>
+	<string name="no_connection">Geen netwerk verbinding.</string>
+	<string name="open_cam_msg">Alle niet-opgeslagen gegevens gaan verloren.</string>
+	<string name="fb_upload_sucessfull">Facebook upload succesvol</string>
+	<string name="fb_upload_failed">Facebook upload mislukt</string>
+	<string name="fb_login_failed">Facebook login mislukt</string>
+	<string name="uploading_image">Het uploaden van Afbeelding&#8230;</string>
+	<string name="twitter_upload_sucessfull">Twitter upload succesvol</string>
+	<string name="twitter_upload_failed">Twitter upload mislukt</string>
+	<string name="twitter_login_failed">Twitter login mislukt</string>
+	<string name="no_sdcard">SD-kaart niet aangesloten.</string>
+	<string name="connecting_to_server">Verbinden maken met server&#8230;</string>
+	<string name="checking_for_session">Controleren op sessie&#8230;</string>
+</resources>

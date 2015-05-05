@@ -1,0 +1,12 @@
+<resources>
+<drawable name="highlightitembgcolor">#4C87C1</drawable>
+<drawable name="highlightitemfgcolor">#FFFFFF</drawable>
+<drawable name="itembgcolor">#FFFFFF</drawable>
+<drawable name="titlefgcolor">#000000</drawable>
+<drawable name="datefgcolor">#A0A0A0</drawable>
+<drawable name="nestleBlue">#4C87C1</drawable>
+<drawable name="white">#FFFFFF</drawable>
+<drawable name="black">#000000</drawable>
+<color name="image_background">#C9C9C9</color>
+<drawable name="transparent">#00000000</drawable>
+</resources> 

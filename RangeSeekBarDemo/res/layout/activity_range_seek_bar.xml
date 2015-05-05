@@ -1,0 +1,78 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EBEBEB"
+    tools:context=".RangeSeekBarActivity" >
+
+    <RelativeLayout
+        android:id="@+id/view_group_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dip" >
+
+        <TextView
+            android:id="@+id/min_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="Min" />
+
+        <TextView
+            android:id="@+id/max_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="Max" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/view_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view_amount"
+        android:layout_centerInParent="true"
+        android:layout_margin="5dip" />
+
+    <RelativeLayout
+        android:id="@+id/date_info_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view_date" >
+
+        <TextView
+            android:id="@+id/min_date_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:padding="10dip"
+            android:singleLine="true"
+            android:text="03/03/13" />
+
+        <TextView
+            android:id="@+id/date_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/min_date_value"
+            android:padding="10dip"
+            android:singleLine="true"
+            android:text="Date" />
+
+        <TextView
+            android:id="@+id/max_date_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:padding="10dip"
+            android:singleLine="true"
+            android:text="03/30/13" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/view_amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view_group_info"
+        android:layout_margin="5dip" />
+
+</RelativeLayout>

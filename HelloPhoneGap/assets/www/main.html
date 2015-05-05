@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>  
+<html>  
+  <head>  
+  <link rel="stylesheet" href="master.css" type="text/css" media="screen" title="no title" charset="utf-8">  
+    <meta name="viewport" content="width=320; user-scalable=no" />  
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">  
+    <title>PhoneGap</title>  
+              <script type="text/javascript" charset="utf-8" src="phonegap.js"></script>          
+              <script type="text/javascript" charset="utf-8">  
+              var displayHello = function() {   
+                        var name =      document.getElementById("firstname").value;   
+                        alert("Hello "+ "name" + name);   
+            }   
+   </script>  
+  </head>  
+  <body onload="init();" id="bdy" >  
+            <div id="txt">  
+            <input   type="text" name="firstname" id="firstname" />  
+            </div>  
+            <div id ="btn">  
+    <a href="#" class="btn" onclick="displayHello();">Say Hello</a>  
+            </div>  
+        </div>  
+  </body>  
+</html>  

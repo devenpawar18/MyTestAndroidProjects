@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="@drawable/white">
+
+	<include layout="@layout/title" android:id="@+id/titleBar" />
+
+	<TextView android:id="@+id/account" android:layout_width="fill_parent"
+		android:text="@string/account" android:textColor="@drawable/black"
+		android:layout_marginTop="10dip" android:layout_marginLeft="16dip"
+		android:textStyle="bold"
+		android:layout_height="wrap_content" android:textSize="16dip"/>
+
+	<RelativeLayout android:id="@+id/socialNetLayout"
+		android:background="@layout/popup_corner" android:layout_width="fill_parent"
+		android:layout_height="48dip" android:layout_marginLeft="8dip"
+		android:layout_marginRight="8dip" android:layout_marginBottom="10dip">
+
+		<ImageView android:id="@+id/socialNetImage"
+			android:layout_centerInParent="true" android:layout_width="wrap_content"
+			android:layout_alignParentLeft="true" android:layout_height="wrap_content"
+			android:layout_marginLeft="8dip" />
+		<TextView android:id="@+id/socialNetText"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_toRightOf="@+id/socialNetImage" android:textStyle="bold"
+			android:layout_centerInParent="true" android:textColor="@drawable/black"
+			android:textSize="20dip" android:paddingLeft="8dip" android:singleLine="true" android:ellipsize="end"/>
+	</RelativeLayout>
+
+	<TextView android:id="@+id/message" android:layout_width="fill_parent"
+		android:text="@string/message" android:textColor="@drawable/black"
+		android:layout_marginLeft="18dip" android:layout_height="wrap_content"
+		android:textStyle="bold" 
+		android:textSize="16dip"/>
+
+	<EditText android:id="@+id/statusMessage"
+		android:layout_marginRight="8dip" android:layout_width="fill_parent"
+		android:layout_marginLeft="8dip" android:layout_height="160dip"
+		android:gravity="top|left" android:padding="10dip" />
+
+	<TextView android:id="@+id/link" android:layout_width="fill_parent"
+		android:gravity="center_horizontal" android:text="@string/article_Link"
+		android:textColor="@drawable/text_gray" android:layout_marginLeft="8dip"
+		android:layout_marginRight="8dip"
+		android:layout_height="wrap_content" />
+
+</LinearLayout>

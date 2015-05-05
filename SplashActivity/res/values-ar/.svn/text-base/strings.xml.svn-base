@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Platsbanken</string>
+	<string name="search">إبحث</string>
+	<string name="favorites">المفضلة</string>
+	<string name="ads">اعلانات</string>
+	<string name="Searches">بحث</string>
+	<string name="recent">الأخيرة</string>
+	<string name="go">OK</string>
+	<string name="text_Search">إبحث بواسطة نَص حر</string>
+	<string name="search_By_Job_Location">إبحث بواسطة منطقة العمل</string>
+	<string name="search_By_Occupation">بحث بواسطة مهنة</string>
+	<string name="text_Search_Label">بحث بواسطة نَص حرّ</string>
+	<string name="occupation">المهنة</string>
+	<string name="search_Occupation">بحث عن مهنة</string>
+	<string name="occupations">yrken</string>
+
+	<string name="job_Location">منطقة العمل:</string>
+	<string name="technical_Support">الدعم التقني</string>
+	<string name="employment">المهنة</string>
+	<string name="customer_Service">خدمة الزبائن</string>
+	<string name="share">شارك</string>
+	<string name="twitter">تويتر</string>
+	<string name="facebook">الفيسبوك</string>
+	<string name="linkedIn">LinkedIn لنكد إن</string>
+	<string name="email">بريد الكتروني</string>
+	<string name="open_In_Browser">فتح في المستعرض</string>
+	<string name="cancel">إيقاف</string>
+
+	<string name="mail">بريد</string>
+	<string name="call">أتصل هاتفيا</string>
+	<string name="delete">حذف</string>
+	<string name="map">خارطة</string>
+	<string name="translate">ترجمة</string>
+
+	<string name="contact">اتصال</string>
+
+	<string name="click_Here_To_Filter">قم بفلترة/ترشيح</string>
+	<string name="loading">...تحميل</string>
+
+	<string name="sign_In">Logga in på</string>
+	<string name="municipality">بلدية</string>
+	<string name="municipalities">kommuner</string>
+	<string name="filter">قم بفلترة/ترشيح</string>
+	<string name="sign_Out_Of">Logga ut från</string>
+	<string name="no_Ads_Found">العثور على أي إعلانات</string>
+	<string name="login_Is_Not_Successful">لا أستطيع الدخول</string>
+	<string name="occupational_Field">المجال المهني</string>
+	<string name="occupational_Fields">yrkesområden</string>
+	<string name="add_Filter_Favorite">Lägg filtret favorit</string>
+	<string name="job_Ads">علانات وظائف شاغرة</string>
+	<string name="ad">إعلان</string>
+	<string name="occupational_Group">المجموعة المهنية</string>
+	<string name="occupational_Groups">yrkesgrupper</string>
+	<string name="County">لمحافظة</string>
+	<string name="counties">län</string>
+	<string name="ads_In">إعلان في</string>
+	<string name="ads_For">إعلان عن</string>
+	<string name="platsbanken">Platsbanken</string>
+	<string name="ads_Found"> يوجد إعلان</string>
+
+	<string name="techsupportNumberText">0771-622 000</string>
+	<string name="cxSupportNumberText">0771-416 416</string>
+	<string name="visit_Us">زورونا</string>
+	<string name="follow_Us_On">رافقنا الى الفيسبوك</string>
+	<string name="send_Email">رسل بريد الكتروني</string>
+
+	<string name="englishLanguage">Engelska/English#en</string>
+	<string name="swedishLanguage">Svenska#sv</string>
+	<string name="arabicLanguage">Arabiska/اللغة العربية#ar</string>
+	<string name="frenchLanguage">Franska/français#fr</string>
+	<string name="russianLanguage">Ryska/Русский#ru</string>
+	<string name="spanishLanguage">Spanska/español#es</string>
+
+	<string name="send">إرسل بريد الكتروني</string>
+	<string name="currently_s_Ads">الوظائف الشاغرة %@ الآن</string>
+	<string name="all_Of">لجميع</string>
+	<string name="all">لجميع</string>
+	<string name="filter_Already_Favroite">Filter redan favorit</string>
+	<string name="message_Successfully_Posted">Meddelande postat framgångsrikt</string>
+	<string name="message_Not_Posted">لا يمكن إرسال.</string>
+	<string name="enter_Your_Search_Terms">كتب كلمة البحث هنا</string>
+	<string name="loading_Jobs">إجلب المزيد من الإعلانات...</string>
+	<string name="employment_Office">مكتب العمل</string>
+	<string name="employment_Offices">مكاتب التوظيف</string>
+	<string name="employment_office">مكتب العمل</string>
+	
+	
+	<string name="visiting_Address">عنوان الزيارة</string>
+	<string name="postal_Address">لعنوان البريدي</string>
+	<string name="phone_Hours">مواعيد الإتصالات الهاتفية</string>
+	<string name="head_Of_Employment_Office">مدير مكتب العمل</string>
+	<string name="self_Service">خدمة شخصية</string>
+	<string name="personal_Service">خدمة شخصية</string>
+	
+	<string name="published">ُشرت في:</string>
+	<string name="vacancies"> ماكن</string>
+	<string name="vacancy">مكان</string>
+	<string name="work_Location">منطقة العمل:</string>
+	<string name="driving_License">رخصة قيادة:</string>
+	<string name="duration_Or_WorkingHours">طول الفترة/وقت العمل</string>
+	<string name="starting_Date">البدء في العمل</string>
+	<string name="salary_Or_Wages">الراتب</string>
+	<string name="application">طلب</string>
+	<string name="application_Deadline">آخر يوم لتقديم الطلبات:</string>
+	<string name="indicate_Reference">ذكر المرجع:</string>
+	<string name="we_Welcome_Application_Via_Email">نستقبل الطلبات بالبريد الألكتروني:</string>
+	<string name="phone">هاتف:</string>
+	<string name="web">موقع الويب:</string>
+	<string name="corporate_Registration_Number">الرقم الضريبي:</string>
+	<string name="ad_Id">رمز التعريف للإعلان</string>
+	<string name="contact_Persons">مسؤول الإتصال</string>
+	<string name="access_To_Own_Car">لدي سيارة خاصة</string>
+	<string name="no_Access_To_Own_Car">Ingen tillgång till egen bil</string>
+	
+	
+	<string name="could_Not_Shorten_URL">لم أستطع تقصير الرابط الى الوظيفة</string>
+	
+	<string name="load_More">...تحميل المزيد</string>
+	
+	
+	<string name="deleteall">حذف كافة</string>
+	
+	<string name="name">الأسم</string>
+	<string name="title">عنوان</string>
+	<string name="phone_Number">رقم الهاتف:</string>
+	<string name="mobile_Number">رقم الهاتف الخليوي:</string>
+	<string name="related_matches">لنتائج القريبة</string>
+	<string name="job_Info">jobbinfo</string>
+	<string name="account">حساب</string>
+	<string name="message">رسالة</string>
+	<string name="article_Link">سيظهر رابط للوظيفة في نهاية الرسالة</string>
+	<string name="language">لغة</string>
+	<string name="we_do_not_accept_application_via_email">نستقبل الطلبات بالبريد الألكتروني:</string>
+	
+	<string name="could_not_get_employment_office">م أستطع الحصول على معلومات مكتب العمل</string>
+	<string name="could_not_get_Employment_offices">لم أستطع الحصول على معلومات مكاتب العمل</string>
+	<string name="could_not_get_job_info">لم أستطع جلب العنوان</string>
+	<string name="could_not_get_Municipalities">لم أستطع جلب معلومات عن البلديات</string>
+	<string name="could_not_get_counties">لم أستطع جلب معلومات عن المحافظة</string>
+	<string name="could_not_get_location">لم أستطع الحصول على معلومات عن المكان</string>
+	<string name="could_not_get_jobs">م أستطع جلب معلومات عن عنوان الوظيفة الشاغرة</string>
+	<string name="could_not_get_total_number_of_jobs">لم أستطع جلب معلومات عن عدد الوظائف</string>
+	<string name="could_not_get_occupations">لم أستطع جلب المهنة</string>
+	<string name="could_not_get_occupational_groups_groups">لم أستطع جلب المجموعة المهنية</string>
+	<string name="could_not_get_occupational_fields">لم أستطع جلب المجال المهني</string>
+	<string name="could_not_translate">م استطع ترجمة المعلومات</string>
+	
+	<string name="log_in_to_facebook">إدخل الى فيسبوك</string>
+	<string name="log_in_to_twitter">لإدخل الى تويتر</string>
+	<string name="log_in_to_linkedin">إدخل الى لنكد إن</string>
+	<string name="log_out_to_facebook">غادر فيسبوك</string>
+	<string name="log_out_to_twitter">لغادر تويتر</string>
+	<string name="log_out_to_linkedin">غادر لنكد إن</string>
+	<string name="enable_location_service">هل تريد تمكين خدمة الدولة؟</string>
+</resources>

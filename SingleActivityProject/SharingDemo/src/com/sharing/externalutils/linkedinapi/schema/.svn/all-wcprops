@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema
+END
+RelationToViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/RelationToViewer.java
+END
+EndDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/EndDate.java
+END
+Position.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Position.java
+END
+QuestionCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/QuestionCategory.java
+END
+UpdateComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/UpdateComment.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Person.java
+END
+RecommendationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/RecommendationType.java
+END
+MemberGroups.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/MemberGroups.java
+END
+JobPoster.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/JobPoster.java
+END
+Question.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Question.java
+END
+SiteJobRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/SiteJobRequest.java
+END
+MailboxItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/MailboxItem.java
+END
+InviteConnectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/InviteConnectType.java
+END
+Connections.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Connections.java
+END
+MemberGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/MemberGroup.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Property.java
+END
+HttpHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/HttpHeader.java
+END
+UpdateComments.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/UpdateComments.java
+END
+MemberUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/MemberUrl.java
+END
+StartDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/StartDate.java
+END
+Activity.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Activity.java
+END
+InvitationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/InvitationRequest.java
+END
+Answer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Answer.java
+END
+jaxb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/jaxb.properties
+END
+Authorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Authorization.java
+END
+Recommender.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Recommender.java
+END
+Author.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Author.java
+END
+SchemaElementFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/SchemaElementFactory.java
+END
+Country.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Country.java
+END
+Recommendation.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Recommendation.java
+END
+Updates.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Updates.java
+END
+Recipients.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Recipients.java
+END
+Company.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Company.java
+END
+NetworkStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/NetworkStats.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Location.java
+END
+Job.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Job.java
+END
+Education.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Education.java
+END
+Headers.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Headers.java
+END
+QuestionCategories.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/QuestionCategories.java
+END
+UpdateContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/UpdateContent.java
+END
+SiteStandardProfileRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/SiteStandardProfileRequest.java
+END
+RecommendationsGiven.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/RecommendationsGiven.java
+END
+Answers.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Answers.java
+END
+Recipient.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Recipient.java
+END
+Update.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Update.java
+END
+Recommendee.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Recommendee.java
+END
+People.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/People.java
+END
+ApiStandardProfileRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/ApiStandardProfileRequest.java
+END
+MemberUrlResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/MemberUrlResources.java
+END
+Positions.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Positions.java
+END
+NetworkUpdateContentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/NetworkUpdateContentType.java
+END
+Network.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Network.java
+END
+ItemContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/ItemContent.java
+END
+Error.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Error.java
+END
+SiteGroupRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/SiteGroupRequest.java
+END
+PersonActivities.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/PersonActivities.java
+END
+SchemaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/SchemaEntity.java
+END
+NetworkUpdateReturnType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/NetworkUpdateReturnType.java
+END
+Educations.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/Educations.java
+END
+RecommendationsReceived.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/schema/RecommendationsReceived.java
+END

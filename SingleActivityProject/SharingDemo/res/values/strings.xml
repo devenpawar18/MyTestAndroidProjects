@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sharing_text">Sharing information on various Social Networking Sites.</string>
+    <string name="app_name">SharingDemo</string>
+    <string name="share">Share</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <string name="linkedIn">LinkedIn</string>
+    <string name="mail">Mail</string>
+    <string name="email">Email</string>
+    <string name="open_In_Browser">Open in browser</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_In">Log in to</string>
+    <string name="sign_Out_Of">Log out of</string>
+    <string name="login_Is_Not_Successful">Login is not successful</string>
+    <string name="follow_Us_On">Follow us on</string>
+    <string name="send_Email">Send email</string>
+    <string name="send">Send</string>
+    <string name="message_Successfully_Posted">Message successfully posted</string>
+    <string name="message_Not_Posted">Could not send.</string>
+    <string name="could_Not_Shorten_URL">Could not shorten URL</string>
+    <string name="account">Account</string>
+    <string name="message">Message</string>
+    <string name="article_Link">A link to the article will be placed in the end of the message.</string>
+    <string name="loading">Loading...</string>
+
+</resources>

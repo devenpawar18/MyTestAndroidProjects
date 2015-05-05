@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:title="@string/favorites" android:icon="@drawable/favorites_menu"
+		android:id="@+id/addfavorite" />
+	<item android:title="@string/mail" android:icon="@drawable/mail_menu"
+		android:id="@+id/mail" />
+	<item android:title="@string/call" android:icon="@drawable/contact_menu"
+		android:id="@+id/contact" />
+	<item android:title="@string/map" android:icon="@drawable/location_menu"
+		android:id="@+id/geoPoint" />
+	<item android:title="@string/share" android:icon="@drawable/share_menu"
+		android:id="@+id/share" />
+	<item android:title="@string/translate" android:icon="@drawable/map_menu"
+		android:id="@+id/browser" />
+	<item android:title="@string/delete" android:icon="@drawable/delete_menu"
+		android:id="@+id/delete" />
+
+</menu>

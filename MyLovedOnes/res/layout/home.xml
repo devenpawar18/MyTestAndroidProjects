@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/LinearLayout01"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="#D3D3D3">
+	<ImageView android:id="@+id/frndimg"
+		android:layout_alignParentTop="true" android:scaleType="fitXY"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:src="@drawable/friendship" />
+
+	<TextView android:id="@+id/frndmsg" android:layout_width="fill_parent"
+		android:layout_below="@+id/frndimg" android:layout_height="wrap_content"
+		android:layout_margin="20dip" android:textSize="20dip"
+		android:textStyle="italic" android:textColor="@drawable/red"
+		android:text="A Friend is someone who knows when to shout,And when to Hold you in their arms and let you Cry..." />
+		
+		
+		<TextView android:id="@+id/frndmsg1" android:layout_width="fill_parent"
+		android:layout_below="@+id/frndmsg" android:layout_height="fill_parent"
+		android:layout_margin="20dip" android:textSize="20dip"
+		android:textStyle="italic" android:textColor="@drawable/red"
+		android:text="Please Tap to see My Loved Ones..." />
+
+</RelativeLayout>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Platsbanken</string>
+	<string name="search">Sök</string>
+	<string name="favorites">Favoriter</string>
+	<string name="ads">Annonser</string>
+	<string name="Searches">Sökningar</string>
+	<string name="recent">Senaste</string>
+	<string name="go">OK</string>
+	<string name="text_Search">Sök via fritext</string>
+	<string name="search_By_Job_Location">Sök via arbetsort</string>
+	<string name="search_By_Occupation">Sök via yrke</string>
+	<string name="text_Search_Label">Fritextsökning</string>
+	<string name="occupation">Yrke</string>
+	<string name="search_Occupation">Yrkessökning</string>
+	<string name="occupations">yrken</string>
+
+	<string name="job_Location">Arbetsort</string>
+	<string name="technical_Support">Teknisk support</string>
+	<string name="employment">Yrke</string>
+	<string name="customer_Service">Kundtjänst</string>
+	<string name="share">Dela</string>
+	<string name="twitter">Twitter</string>
+	<string name="facebook">Facebook</string>
+	<string name="linkedIn">LinkedIn</string>
+	<string name="email">E-post</string>
+	<string name="open_In_Browser">Öppna i webbläsaren</string>
+	<string name="cancel">Avbryt</string>
+
+	<string name="mail">Mail</string>
+	<string name="call">Ring</string>
+	<string name="delete">Radera</string>
+	<string name="map">Karta</string>
+	<string name="translate">Översätt till </string>
+
+	<string name="contact">Kontakt</string>
+
+	<string name="click_Here_To_Filter">Filtrera</string>
+	<string name="loading">Laddar ...</string>
+
+	<string name="sign_In">Logga in på</string>
+	<string name="municipality">Kommun</string>
+	<string name="municipalities">kommuner</string>
+	<string name="filter">Filtrera</string>
+	<string name="sign_Out_Of">Logga ut från</string>
+	<string name="no_Ads_Found">Inga annonser funna</string>
+	<string name="login_Is_Not_Successful">Kan inte logga in</string>
+	<string name="occupational_Field">Yrkesområde</string>
+	<string name="occupational_Fields">yrkesområden</string>
+	<string name="add_Filter_Favorite">Lägg filtret favorit</string>
+	<string name="job_Ads">Platsannonser</string>
+	<string name="ad">annons</string>
+	<string name="occupational_Group">Yrkesgrupp</string>
+	<string name="occupational_Groups">yrkesgrupper</string>
+	<string name="County">Län</string>
+	<string name="counties">län</string>
+	<string name="ads_In">annonser i</string>
+	<string name="ads_For">annonser för</string>
+	<string name="platsbanken">Platsbanken</string>
+	<string name="ads_Found"> annonser funna</string>
+
+	<string name="techsupportNumberText">0771-622 000</string>
+	<string name="cxSupportNumberText">0771-416 416</string>
+	<string name="visit_Us">Besök oss</string>
+	<string name="follow_Us_On">Följ oss på</string>
+	<string name="send_Email">Skicka e-post</string>
+
+	<string name="englishLanguage">Engelska/English#en</string>
+	<string name="swedishLanguage">Svenska#sv</string>
+	<string name="arabicLanguage">Arabiska/اللغة العربية#ar</string>
+	<string name="frenchLanguage">Franska/français#fr</string>
+	<string name="russianLanguage">Ryska/Русский#ru</string>
+	<string name="spanishLanguage">Spanska/español#es</string>
+
+	<string name="send">Skicka</string>
+	<string name="currently_s_Ads">Just nu %s lediga jobb</string>
+	<string name="all_Of">alla</string>
+	<string name="all">Alla</string>
+	<string name="filter_Already_Favroite">Filter redan favorit</string>
+	<string name="message_Successfully_Posted">Meddelande postat framgångsrikt</string>
+	<string name="message_Not_Posted">Meddelandet inte skrivit</string>
+	<string name="enter_Your_Search_Terms">Skriv dina sökord här</string>
+	<string name="loading_Jobs">Hämtar antal lediga jobb…</string>
+	<string name="employment_Office">Arbetsförmedling</string>
+	<string name="employment_Offices">arbetsförmedlingar</string>
+	<string name="employment_office">Arbetsförmedling</string>
+	
+	
+	<string name="visiting_Address">Besöksadress</string>
+	<string name="postal_Address">Postadress</string>
+	<string name="phone_Hours">Telefontider</string>
+	<string name="head_Of_Employment_Office">Arbetsförmedlingschef</string>
+	<string name="self_Service">Självservice</string>
+	<string name="personal_Service">Personlig service</string>
+	
+	<string name="published">Publicerad:</string>
+	<string name="vacancies"> platser</string>
+	<string name="vacancy"> plats</string>
+	<string name="work_Location">Arbetsort:</string>
+	<string name="driving_License">Körkort:</string>
+	<string name="duration_Or_WorkingHours">Varaktighet/Arbetstid</string>
+	<string name="starting_Date">Tillträde:</string>
+	<string name="salary_Or_Wages">Lön</string>
+	<string name="application">Ansökan</string>
+	<string name="application_Deadline">Sista ansökningsdag:</string>
+	<string name="indicate_Reference">Ange referens:</string>
+	<string name="we_Welcome_Application_Via_Email">Vi tar emot ansökan via e-post:</string>
+	<string name="phone">Tel:</string>
+	<string name="web">Webb:</string>
+	<string name="corporate_Registration_Number">Organisationsnummer:</string>
+	<string name="ad_Id">Annons-ID:</string>
+	<string name="contact_Persons">Kontaktpersoner</string>
+	<string name="access_To_Own_Car">Tillgång till egen bil</string>
+	<string name="no_Access_To_Own_Car">Ingen tillgång till egen bil</string>
+	
+	
+	<string name="could_Not_Shorten_URL">Kunde inte förkorta länken till jobbet</string>
+	
+	<string name="load_More">Ladda mer ...</string>
+	
+	
+	<string name="deleteall">Ta bort alla</string>
+	
+	<string name="name">Namn:</string>
+	<string name="title">Titel:</string>
+	<string name="phone_Number">Telefonnummer:</string>
+	<string name="mobile_Number">Mobilnummer:</string>
+	<string name="related_matches">Närliggande träffar</string>
+	<string name="job_Info">jobbinfo</string>
+	<string name="account">Konto</string>
+	<string name="message">Meddelande</string>
+	<string name="article_Link">En länk till jobbet kommer att placeras i slutet av meddelandet.</string>
+	<string name="language">Språk</string>
+	<string name="we_do_not_accept_application_via_email">Vi tar inte emot ansökan via e-post:</string>
+	
+	<string name="could_not_get_employment_office">Kunde inte hämta arbetsformedling</string>
+	<string name="could_not_get_Employment_offices">Kunde inte hämta arbetsförmedlingar</string>
+	<string name="could_not_get_job_info">Kunde inte hämta jobbinfo</string>
+	<string name="could_not_get_Municipalities">Kunde inte hämta kommuner</string>
+	<string name="could_not_get_counties">Kunde inte hämta län</string>
+	<string name="could_not_get_location">Kunde inte hämta plats</string>
+	<string name="could_not_get_jobs">Kunde inte hämta platsannonser</string>
+	<string name="could_not_get_total_number_of_jobs">Kunde inte hämta totalt antal jobb</string>
+	<string name="could_not_get_occupations">Kunde inte hämta yrken</string>
+	<string name="could_not_get_occupational_groups_groups">Kunde inte hämta yrkesgrupper</string>
+	<string name="could_not_get_occupational_fields">Kunde inte hämta yrkesområden</string>
+	<string name="could_not_translate">Kunde inte översätta</string>
+	
+	<string name="log_in_to_facebook">إدخل الى فيسبوك</string>
+	<string name="log_in_to_twitter">لإدخل الى تويتر</string>
+	<string name="log_in_to_linkedin">إدخل الى لنكد إن</string>
+	<string name="log_out_to_facebook">غادر فيسبوك</string>
+	<string name="log_out_to_twitter">لغادر تويتر</string>
+	<string name="log_out_to_linkedin">غادر لنكد إن</string>
+	<string name="enable_location_service">Vill du aktivera platstjänst?</string>
+</resources>

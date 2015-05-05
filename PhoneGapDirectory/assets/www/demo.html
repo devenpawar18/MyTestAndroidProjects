@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="viewport" content="width=600; user-scalable=no" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>Prototyp_V.2.0</title>
+<link rel="stylesheet" href="js/master.css" type="text/css"
+	media="screen" title="no title" charset="utf-8">
+<link rel="stylesheet" href="js/jquery.mobile-1.0a3.min.css"
+	type="text/css" charset="utf-8">
+<script type="text/javascript" charset="utf-8" src="js/main.js"></script>
+<script type="text/javascript" charset="utf-8" src="js/jquery.min.js"></script>
+<script type="text/javascript" charset="utf-8"
+	src="js/jquery.mobile-1.0.min.js">
+	
+</script>
+<style type="text/css">
+.ui-page {
+	background: #ffffff;
+}
+</style>
+</head>
+<body onload="init();" id="stage" class="theme">
+	<script type="text/javascript">
+		function test() {
+			alert("test");
+			$(document)
+					.delegate(
+							'#simplestring',
+							'click',
+							function() {
+								$(this)
+										.simpledialog(
+												{
+													'mode' : 'string',
+													'prompt' : 'What do you say?',
+													'buttons' : {
+														'OK' : {
+															click : function() {
+																$(
+																		'#dialogoutput')
+																		.text(
+																				$(
+																						'#dialoglink')
+																						.attr(
+																								'data-string'));
+															}
+														},
+														'Cancel' : {
+															click : function() {
+															},
+															icon : "delete",
+															theme : "c"
+														}
+													}
+												})
+							})
+		}
+	</script>
+
+	<div data-role="page" id="id0">
+
+		<div data-role="header" data-theme="c">
+
+			<h1>Heading</h1>
+		</div>
+		<div data-role="content">
+			<div id="twitter_">
+				<center>Dialog Box</center>
+				<p>
+					You have entered: <span id="dialogoutput"></span>
+				</p>
+				<a href="#" id="dialoglink" onClick=test(); data-role="button">Open
+					Dialog</a>
+			</div>
+		</div>
+</body>
+</html>

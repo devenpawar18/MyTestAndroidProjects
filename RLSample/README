@@ -1,0 +1,29 @@
+This application is a sample implementation of the RedLaser SDK
+
+To integrate into a new/existing project, copy the libs folder from this project as well as the overlay_logo.png resource.
+
+It is recommended that you use the RedLaserSDK class as a starting point in your own app.
+
+or you could follow the directions below:
+
+Create a new Activity that extends BarcodeScanActivity located in:
+com.ebay.redlasersdk.scanner.BarcodeScanActivity
+
+on your class's onCreate() create a RedLaserSettings object and set the AppCode as well as the custom text placeholders.
+
+You can configure the overlay to have up to 3 buttons by calling the setButtons() method.
+
+For no buttons call "setButtons(null,null,null);"
+For 3 different buttons call "setButtons("Finish","Manual Entry","Help");" passing in the labels you would like to appear on the buttons.
+
+If you choose to have buttons on the overlay you need to override the following methods:
+
+void onButton1Click()
+void onButton2Click()
+void onButton3Click()
+
+
+This SDK requires the following permissions:
+android.permission.CAMERA
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/oauth
+END
+LinkedInOAuthService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/oauth/LinkedInOAuthService.java
+END
+LinkedInOAuthToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/oauth/LinkedInOAuthToken.java
+END
+LinkedInAccessToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/oauth/LinkedInAccessToken.java
+END
+LinkedInOAuthServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/android/!svn/ver/1517/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/oauth/LinkedInOAuthServiceImpl.java
+END
+LinkedInApiConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/oauth/LinkedInApiConsumer.java
+END
+LinkedInOAuthServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/oauth/LinkedInOAuthServiceFactory.java
+END
+LinkedInRequestToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/oauth/LinkedInRequestToken.java
+END
+LinkedInOAuthServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/repos/android/!svn/ver/1218/Platsbanken/src/com/arbetsformedlingen/externalutils/linkedinapi/client/oauth/LinkedInOAuthServiceException.java
+END

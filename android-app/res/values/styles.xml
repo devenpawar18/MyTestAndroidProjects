@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ageon_text_style" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="later_text_style" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="komt_text_style" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">18sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="anim_text_style" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">50sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="text_color">#414141</color>
+    <color name="white">#FFFFFF</color>
+    <color name="sky_blue">#b1dae4</color>
+    <color name="title">#2096b3</color>
+    <color name="explanation_text_color">#409cbb</color>
+    <color name="explanation_details_color">#494949</color>
+    <color name="transparent">#80ffffff</color>
+    <color name="login_font">#dbdbdb</color>
+    <color name="activation_bg">#ede9ba</color>
+    <color name="grey">#cccccc</color>
+    <color name="normal_card_text_color">#bdbabd</color>
+    <color name="light_grey">#e3e9e8</color>
+    <color name="activation_button_bg">#b7aa00</color>
+    <color name="dark_grey">#7e7f80</color>
+    <color name="blue">#1393AC</color>
+    <color name="transparent_black">#80c4c3bb</color>
+    <color name="transparent_black1">#80000000</color>
+    <color name="yellow">#B1A302</color>
+    <color name="bg_selector_color">#c4d2d3</color>
+
+</resources>

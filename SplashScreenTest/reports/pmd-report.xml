@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.5" timestamp="2012-08-10T16:40:22.506">
+<file name="src/com/splashscreen/activities/SplashScreen.java">
+<violation beginline="13" endline="13" begincolumn="0" endcolumn="0" rule="LongVariable" ruleset="Naming Rules" package="com.splashscreen.activities" class="SplashScreen" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#LongVariable" priority="3">
+Avoid excessively long variable names like START_HOMEACTIVITY
+</violation>
+<violation beginline="16" endline="16" begincolumn="0" endcolumn="0" rule="LongVariable" ruleset="Naming Rules" package="com.splashscreen.activities" class="SplashScreen" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#LongVariable" priority="3">
+Avoid excessively long variable names like savedInstanceState
+</violation>
+<violation beginline="16" endline="16" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="com.splashscreen.activities" class="SplashScreen" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'savedInstanceState' is not assigned and could be declared final
+</violation>
+<violation beginline="20" endline="20" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="com.splashscreen.activities" class="SplashScreen" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'msg' could be declared final
+</violation>
+<violation beginline="25" endline="25" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="JavaBean Rules" package="com.splashscreen.activities" class="SplashScreen" externalInfoUrl="http://pmd.sourceforge.net/rules/javabeans.html#BeanMembersShouldSerialize" priority="3">
+Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="25" endline="38" begincolumn="0" endcolumn="0" rule="DefaultPackage" ruleset="Controversial Rules" package="com.splashscreen.activities" class="SplashScreen" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DefaultPackage" priority="3">
+Use explicit scoping instead of the default package private level
+</violation>
+<violation beginline="28" endline="28" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="com.splashscreen.activities" class="SplashScreen" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'msg' is not assigned and could be declared final
+</violation>
+<violation beginline="32" endline="32" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="com.splashscreen.activities" class="SplashScreen" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'intent' could be declared final
+</violation>
+<violation beginline="40" endline="40" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="com.splashscreen.activities" class="SplashScreen" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'event' is not assigned and could be declared final
+</violation>
+<violation beginline="40" endline="40" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="com.splashscreen.activities" class="SplashScreen" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'keyCode' is not assigned and could be declared final
+</violation>
+<violation beginline="43" endline="43" begincolumn="0" endcolumn="0" rule="OnlyOneReturn" ruleset="Controversial Rules" package="com.splashscreen.activities" class="SplashScreen" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#OnlyOneReturn" priority="3">
+A method should have only one exit point, and that should be the last statement in the method
+</violation>
+<violation beginline="43" endline="43" begincolumn="0" endcolumn="0" rule="IfElseStmtsMustUseBraces" ruleset="Braces Rules" package="com.splashscreen.activities" class="SplashScreen" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#IfElseStmtsMustUseBraces" priority="3">
+Avoid using if...else statements without curly braces
+</violation>
+<violation beginline="45" endline="45" begincolumn="0" endcolumn="0" rule="IfElseStmtsMustUseBraces" ruleset="Braces Rules" package="com.splashscreen.activities" class="SplashScreen" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#IfElseStmtsMustUseBraces" priority="3">
+Avoid using if...else statements without curly braces
+</violation>
+</file>
+<file name="src/com/splashscreen/activities/SplashScreenTestActivity.java">
+<violation beginline="3" endline="3" begincolumn="0" endcolumn="0" rule="UnusedImports" ruleset="Type Resolution Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/typeresolution.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.ArrayList'
+</violation>
+<violation beginline="3" endline="3" begincolumn="0" endcolumn="0" rule="UnusedImports" ruleset="Type Resolution Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/typeresolution.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.ArrayList'
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="UnusedImports" ruleset="Type Resolution Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/typeresolution.html#UnusedImports" priority="4">
+Avoid unused imports such as 'android.content.Context'
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="UnusedImports" ruleset="Type Resolution Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/typeresolution.html#UnusedImports" priority="4">
+Avoid unused imports such as 'android.content.Context'
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="JavaBean Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/javabeans.html#BeanMembersShouldSerialize" priority="3">
+Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="DefaultPackage" ruleset="Controversial Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DefaultPackage" priority="3">
+Use explicit scoping instead of the default package private level
+</violation>
+<violation beginline="14" endline="14" begincolumn="0" endcolumn="0" rule="LongVariable" ruleset="Naming Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#LongVariable" priority="3">
+Avoid excessively long variable names like savedInstanceState
+</violation>
+<violation beginline="14" endline="14" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'savedInstanceState' is not assigned and could be declared final
+</violation>
+<violation beginline="25" endline="25" begincolumn="0" endcolumn="0" rule="AvoidPrintStackTrace" ruleset="Java Logging Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/logging-java.html#AvoidPrintStackTrace" priority="3">
+Avoid printStackTrace(); use a logger call instead.
+</violation>
+<violation beginline="30" endline="30" begincolumn="0" endcolumn="0" rule="SignatureDeclareThrowsException" ruleset="Type Resolution Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/typeresolution.html#SignatureDeclareThrowsException" priority="3">
+A method/constructor shouldn't explicitly throw java.lang.Exception
+</violation>
+<violation beginline="30" endline="30" begincolumn="0" endcolumn="0" rule="SignatureDeclareThrowsException" ruleset="Type Resolution Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/typeresolution.html#SignatureDeclareThrowsException" priority="3">
+A method/constructor shouldn't explicitly throw java.lang.Exception
+</violation>
+<violation beginline="32" endline="60" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'formatedString' (lines '32'-'60').
+</violation>
+<violation beginline="32" endline="32" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'formatedString' could be declared final
+</violation>
+<violation beginline="35" endline="35" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'arr' could be declared final
+</violation>
+<violation beginline="40" endline="40" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like j
+</violation>
+<violation beginline="40" endline="40" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'j' could be declared final
+</violation>
+<violation beginline="40" endline="40" begincolumn="0" endcolumn="0" rule="UseIndexOfChar" ruleset="String and StringBuffer Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#UseIndexOfChar" priority="3">
+String.indexOf(char) is faster than String.indexOf(String).
+</violation>
+<violation beginline="41" endline="41" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'str' could be declared final
+</violation>
+<violation beginline="53" endline="53" begincolumn="0" endcolumn="0" rule="AvoidPrintStackTrace" ruleset="Java Logging Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/logging-java.html#AvoidPrintStackTrace" priority="3">
+Avoid printStackTrace(); use a logger call instead.
+</violation>
+<violation beginline="58" endline="58" begincolumn="0" endcolumn="0" rule="ReturnFromFinallyBlock" ruleset="Basic Rules" package="com.splashscreen.activities" class="SplashScreenTestActivity" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#ReturnFromFinallyBlock" priority="3">
+Avoid returning from a finally block
+</violation>
+</file>
+</pmd>

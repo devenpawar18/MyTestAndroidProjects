@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="40dip"
+	android:background="@layout/list_selector"
+	android:id="@+id/dialog_layout">
+
+	<TextView android:id="@+id/dialog_text" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:textColor="@layout/list_text_selector"
+		android:textSize="14dip" android:text=""
+		android:layout_centerVertical="true" android:singleLine="true"
+		android:ellipsize="end" android:paddingRight="10dip"
+		android:paddingLeft="10dip" />
+	<View android:id="@+id/divider" android:layout_width="fill_parent"
+		android:layout_alignParentBottom="true" android:layout_height="2dip"
+		android:background="@drawable/dividerColor"></View>
+</RelativeLayout>

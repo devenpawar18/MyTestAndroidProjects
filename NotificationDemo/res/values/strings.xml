@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, NotificationDemoActivity!</string>
+    <string name="app_name">NotificationDemo</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="browse_library">Browse library</string>
+    <string name="browse_samples">Browse samples</string>
+
+</resources>

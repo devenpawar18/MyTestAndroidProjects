@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="@drawable/white">
+
+	<include layout="@layout/title" android:id="@+id/titleBar" />
+	<LinearLayout android:id="@+id/socialNetLayout"
+		android:orientation="vertical" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:background="@layout/popup_corner"
+		android:layout_margin="8dip">
+
+		<RelativeLayout android:layout_width="fill_parent"
+			android:layout_height="50dip" android:layout_margin="3dip">
+
+			<ImageView android:id="@+id/socialNetImage"
+				android:layout_width="wrap_content" android:layout_alignParentLeft="true"
+				android:layout_centerInParent="true" android:layout_height="wrap_content"
+				android:src="@drawable/twitteron" />
+
+			<TextView android:id="@+id/socialNetText"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_toRightOf="@+id/socialNetImage" android:textColor="@drawable/black"
+				android:layout_centerVertical="true" android:paddingLeft="10dip"
+				android:text="@string/sign_In" android:textSize="16dip"
+				android:textStyle="bold" />
+		</RelativeLayout>
+	</LinearLayout>
+	<EditText android:id="@+id/statusMessage" android:layout_width="fill_parent"
+		android:layout_margin="3dip" android:layout_height="100dip" />
+</LinearLayout>

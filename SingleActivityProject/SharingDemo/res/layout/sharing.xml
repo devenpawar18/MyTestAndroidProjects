@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/white"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/titleBar"
+        layout="@layout/title" />
+
+    <TextView
+        android:id="@+id/account"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dip"
+        android:layout_marginTop="10dip"
+        android:text="@string/account"
+        android:textColor="@drawable/black"
+        android:textSize="16dip"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:id="@+id/socialNetLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="48dip"
+        android:layout_marginBottom="10dip"
+        android:layout_marginLeft="8dip"
+        android:layout_marginRight="8dip"
+        android:background="@layout/rounded_corner" >
+
+        <ImageView
+            android:id="@+id/socialNetImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="8dip" />
+
+        <TextView
+            android:id="@+id/socialNetText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_toRightOf="@+id/socialNetImage"
+            android:ellipsize="end"
+            android:paddingLeft="8dip"
+            android:singleLine="true"
+            android:textColor="@drawable/black"
+            android:textSize="20dip"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/message"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="18dip"
+        android:text="@string/message"
+        android:textColor="@drawable/black"
+        android:textSize="16dip"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/statusMessage"
+        android:layout_width="fill_parent"
+        android:layout_height="160dip"
+        android:layout_marginLeft="8dip"
+        android:layout_marginRight="8dip"
+        android:gravity="top|left"
+        android:padding="10dip" />
+
+    <TextView
+        android:id="@+id/link"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dip"
+        android:layout_marginRight="8dip"
+        android:gravity="center_horizontal"
+        android:text="@string/article_Link"
+        android:textColor="@drawable/text_gray" />
+
+</LinearLayout>

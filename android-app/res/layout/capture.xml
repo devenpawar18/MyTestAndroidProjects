@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white" >
+
+    <com.aegon.ScrollImageView
+        android:id="@+id/picture_preview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitStart" />
+
+    <TextView
+        android:id="@+id/text_id"
+        style="@style/ageon_text_style"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/adjustment_top"
+        android:gravity="center_vertical|right"
+        android:paddingBottom="10dip"
+        android:paddingLeft="80dip"
+        android:paddingRight="20dip"
+        android:text="@string/move_marker"
+        android:textColor="@color/blue" />
+
+    <com.aegon.ZoomImageView
+        android:id="@+id/zoom"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/adjustment_bottom"
+        android:padding="@dimen/button_text_padding" >
+
+        <Button
+            android:id="@+id/open_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginRight="@dimen/button_text_padding"
+            android:background="@drawable/button_neemfoto"
+            android:onClick="onPhotoClick"
+            android:padding="@dimen/button_text_padding" />
+
+        <Button
+            android:id="@+id/create_aging_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="5dip"
+            android:background="@drawable/bg_button"
+            android:onClick="onPhotoClick"
+            android:padding="@dimen/button_text_padding"
+            android:text="@string/pensioneer_me"
+            android:textColor="@color/blue"
+            android:textSize="18dip"
+            android:textStyle="bold"
+            android:typeface="sans" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:deezapps="http://schemas.android.com/apk/res/com.deezapps.widget"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <com.deezapps.widget.HorizontalPager
+        android:id="@+id/pager"
+        android:layout_width="fill_parent"
+        android:layout_height="75dip"
+        android:layout_weight="1"
+        deezapps:pageWidth="320dip" >
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:deezapps="http://schemas.android.com/apk/res/com.deezapps.widget"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/asn_visa"
+                android:focusable="true"
+                android:gravity="center"
+                android:text="Text 1" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/asn_visa"
+                android:focusable="true"
+                android:gravity="center"
+                android:text="Text 2" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/asn_visa"
+                android:gravity="center"
+                android:text="Text 3" />
+        </LinearLayout>
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:deezapps="http://schemas.android.com/apk/res/com.deezapps.widget"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/asn_visa"
+                android:focusable="true"
+                android:text="Text 4" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/asn_visa"
+                android:focusable="true"
+                android:text="Text 5" />
+        </LinearLayout>
+    </com.deezapps.widget.HorizontalPager>
+
+    <com.deezapps.widget.PagerControl
+        android:id="@+id/control"
+        android:layout_width="fill_parent"
+        android:layout_height="15dip"
+        android:layout_below="@+id/pager"
+        android:layout_margin="8dip"
+        deezapps:roundRectRadius="2dip" />
+
+</RelativeLayout>

@@ -1,0 +1,45 @@
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#ABB2B8</color>
+    <color name="grey_light">#919191</color>
+    <color name="green">#5D9732</color>
+    <color name="grey_border">#CCCCCC</color>
+    <color name="transparent">#80FFFFFF</color>
+    <color name="green_medium">#8FC742</color>
+    <color name="brown">#6B5F56</color>
+    <color name="grey_dark">#565355</color>
+    <color name="red">#C20000</color>
+    <color name="grey_light">#A0A0A0</color>
+    <color name="text_default">#000000</color>
+    <color name="text_warning">#BB0000</color>
+    <color name="orange">#EE8511</color>
+
+    <drawable name="highlightitembgcolor">#4C87C1</drawable>
+    <drawable name="highlightitemfgcolor">#FFFFFF</drawable>
+    <drawable name="itembgcolor">#FFFFFF</drawable>
+    <drawable name="titlefgcolor">#5D5C5C</drawable>
+    <drawable name="orange">#EE8511</drawable>
+    <drawable name="blue">#770000ff</drawable>
+    <drawable name="green">#00CC33</drawable>
+    <drawable name="yellow">#77ffff00</drawable>
+    <drawable name="screen_background_black">#ff000000</drawable>
+    <drawable name="translucent_background">#e0000000</drawable>
+    <drawable name="transparent_background">#00000000</drawable>
+
+    <color name="solid_red">#f00</color>
+    <color name="solid_blue">#0000ff</color>
+    <color name="solid_green">#00CC33</color>
+    <color name="solid_yellow">#ffffff00</color>
+    <color name="blue_icons">#4A6DB5</color>
+    <color name="disabled_color">#A8A8A8</color>
+    <color name="enabled_color">#ffffff</color>
+    <color name="blue_color">#1967A6</color>
+    <color name="light_blue_color">#1569A7</color>
+    <color name="dark_yellow">#EE8511</color>
+    <color name="dark_blue">#1569A7</color>
+    <color name="green_color">#1F6D03</color>
+    <color name="red_color">#FF0000</color>
+
+</resources>
